@@ -17,6 +17,7 @@ Created for quick, practical meals with lower net carbs and simple ingredients.
 - [11) Greek Yogurt Bowl with Walnuts and Cinnamon](#11-greek-yogurt-bowl-with-walnuts-and-cinnamon)
 - [12) Lemon-Basil Yogurt Sauce](#12-lemon-basil-yogurt-sauce)
 - [13) Smoky Tomato-Oregano Sauce](#13-smoky-tomato-oregano-sauce)
+- [Sauce Pairing Guide](#sauce-pairing-guide)
 - [7-Day Low-Carb Meal Flow (Optional)](#7-day-low-carb-meal-flow-optional)
 - [Smart Low-Carb Shopping List](#smart-low-carb-shopping-list)
 
@@ -317,6 +318,13 @@ Created for quick, practical meals with lower net carbs and simple ingredients.
 ### Notes
 - Great on chicken thighs, meatballs, or as a shakshuka base.
 - Freezes well.
+
+---
+
+## Sauce Pairing Guide
+- **Lemon-Basil Yogurt Sauce:** salmon, grilled chicken, shrimp bowls, roasted veggies, taco peppers
+- **Smoky Tomato-Oregano Sauce:** turkey meatballs, chicken thighs, zucchini noodles, cauliflower rice, shakshuka-style eggs
+- **Easy weekly move:** prep both sauces on Sunday and use them across 3-4 dinners
 
 ---
 
