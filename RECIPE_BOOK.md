@@ -15,6 +15,7 @@ Created for quick, practical meals with lower net carbs and simple ingredients.
 - [9) Sheet Pan Sausage and Veggies](#9-sheet-pan-sausage-and-veggies)
 - [10) Chia Vanilla Pudding](#10-chia-vanilla-pudding)
 - [11) Greek Yogurt Bowl with Walnuts and Cinnamon](#11-greek-yogurt-bowl-with-walnuts-and-cinnamon)
+- [12) Lemon-Basil Yogurt Sauce](#12-lemon-basil-yogurt-sauce)
 - [7-Day Low-Carb Meal Flow (Optional)](#7-day-low-carb-meal-flow-optional)
 - [Smart Low-Carb Shopping List](#smart-low-carb-shopping-list)
 
@@ -265,6 +266,31 @@ Created for quick, practical meals with lower net carbs and simple ingredients.
 ### Notes
 - For extra sweetness without refined sugar, add berries.
 - For a thicker texture, use strained Greek yogurt.
+
+---
+
+## 12) Lemon-Basil Yogurt Sauce
+**Yield:** about 1 cup  
+**Estimated net carbs:** ~1.5g per 2 tbsp
+
+### Ingredients
+- 1 cup plain Greek yogurt
+- 1 small garlic clove, finely grated (or 1/2 tsp garlic powder)
+- Zest of 1 lemon
+- 1-2 tbsp lemon juice, to taste
+- 2 tbsp fresh basil, finely chopped
+- 1/2 tsp salt
+- Black pepper, to taste
+- 1-2 tsp olive oil (optional)
+
+### Instructions
+1. Stir all ingredients together in a bowl.
+2. Rest 5 minutes to let flavors blend.
+3. Adjust salt and lemon juice to taste.
+
+### Notes
+- Keeps 4-5 days refrigerated.
+- Works as a marinade base; thin with a splash of water if needed.
 
 ---
 
