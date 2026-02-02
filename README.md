@@ -37,5 +37,7 @@ Want to add recipes? Open a pull request with:
 
 ## Recommended Workflow
 1. Add or edit a recipe in `recipes/...`.
-2. Keep `RECIPE_BOOK.md` as your shareable master copy.
-3. Update `RECIPE_INDEX.md` when adding a new recipe file.
+2. Update `RECIPE_INDEX.md` when adding a new recipe file.
+3. Regenerate `RECIPE_BOOK.md` from individual recipes:
+   - `python3 scripts/generate_recipe_book.py`
+4. Keep `RECIPE_BOOK.md` as your shareable master copy.
