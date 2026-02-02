@@ -325,12 +325,12 @@ Created for quick, practical meals with lower net carbs and simple ingredients.
 
 ## 14) Protein Balls
 **Yield:** about 16 balls  
-**Estimated net carbs:** ~11g per ball
+**Estimated net carbs:** ~3.5g per ball (without chocolate chips)
 
 ### Ingredients
-- 1 1/2 cups oats
+- 1 1/2 cups almond flour
 - 1 cup peanut butter
-- 1/4 cup honey or maple syrup
+- 1/4 cup sugar-free maple syrup
 - 2 scoops protein powder (chocolate whey works well)
 
 ### Optional Add-Ins
@@ -339,7 +339,7 @@ Created for quick, practical meals with lower net carbs and simple ingredients.
 - Chocolate chips, to taste
 
 ### Instructions
-1. Add oats, peanut butter, honey (or maple syrup), and protein powder to a bowl.
+1. Add almond flour, peanut butter, sugar-free syrup, and protein powder to a bowl.
 2. Mix until evenly combined.
 3. Fold in any optional add-ins.
 4. Scoop and roll into 16 balls.
@@ -347,7 +347,7 @@ Created for quick, practical meals with lower net carbs and simple ingredients.
 
 ### Notes
 - Store in an airtight container in the fridge for up to 5 days.
-- For a lower-carb version, swap oats for almond flour and use a sugar-free syrup.
+- If mixture is too dry, add 1-2 tbsp water or almond milk.
 
 ---
 
@@ -373,4 +373,4 @@ Created for quick, practical meals with lower net carbs and simple ingredients.
 - **Proteins:** eggs, chicken breast/thighs, salmon, ground turkey, ground beef, smoked sausage
 - **Produce:** spinach, romaine, zucchini, broccoli, asparagus, bell peppers, onion, garlic, cucumber, cherry tomatoes, lemons, fresh basil
 - **Dairy:** plain Greek yogurt, feta, cheddar, parmesan, heavy cream, butter
-- **Pantry:** olive oil, avocado oil, sesame oil, chia seeds, walnuts, canned San Marzano tomatoes, oregano, smoked paprika, chili flakes, cinnamon, coconut aminos or soy sauce, no-sugar salsa/marinara
+- **Pantry:** olive oil, avocado oil, sesame oil, chia seeds, walnuts, almond flour, sugar-free maple syrup, protein powder, canned San Marzano tomatoes, oregano, smoked paprika, chili flakes, cinnamon, coconut aminos or soy sauce, no-sugar salsa/marinara
