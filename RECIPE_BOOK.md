@@ -2,6 +2,21 @@
 
 Created for quick, practical meals with lower net carbs and simple ingredients.
 
+## Table of Contents
+- [How to Use This Book](#how-to-use-this-book)
+- [1) Spinach Feta Egg Muffins](#1-spinach-feta-egg-muffins)
+- [2) Greek Chicken Salad Bowls](#2-greek-chicken-salad-bowls)
+- [3) Garlic Butter Salmon with Asparagus](#3-garlic-butter-salmon-with-asparagus)
+- [4) Zucchini Noodle Turkey Bolognese](#4-zucchini-noodle-turkey-bolognese)
+- [5) Cauliflower Fried Rice](#5-cauliflower-fried-rice)
+- [6) Taco Stuffed Bell Peppers](#6-taco-stuffed-bell-peppers)
+- [7) Creamy Tuscan Chicken](#7-creamy-tuscan-chicken)
+- [8) Broccoli Cheddar Soup (Low-Carb)](#8-broccoli-cheddar-soup-low-carb)
+- [9) Sheet Pan Sausage and Veggies](#9-sheet-pan-sausage-and-veggies)
+- [10) Chia Vanilla Pudding](#10-chia-vanilla-pudding)
+- [7-Day Low-Carb Meal Flow (Optional)](#7-day-low-carb-meal-flow-optional)
+- [Smart Low-Carb Shopping List](#smart-low-carb-shopping-list)
+
 ## How to Use This Book
 - **Serving sizes:** Most recipes serve 2-4.
 - **Net carbs:** Estimated as total carbs minus fiber.
@@ -241,4 +256,3 @@ Created for quick, practical meals with lower net carbs and simple ingredients.
 - **Produce:** spinach, romaine, zucchini, broccoli, asparagus, bell peppers, onion, garlic, cucumber, tomatoes
 - **Dairy:** feta, cheddar, parmesan, heavy cream, butter
 - **Pantry:** olive oil, avocado oil, sesame oil, chia seeds, spices, coconut aminos or soy sauce, no-sugar salsa/marinara
-
