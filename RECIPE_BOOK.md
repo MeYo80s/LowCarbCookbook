@@ -17,6 +17,7 @@ Created for quick, practical meals with lower net carbs and simple ingredients.
 - [11) Greek Yogurt Bowl with Walnuts and Cinnamon](#11-greek-yogurt-bowl-with-walnuts-and-cinnamon)
 - [12) Lemon-Basil Yogurt Sauce](#12-lemon-basil-yogurt-sauce)
 - [13) Smoky Tomato-Oregano Sauce](#13-smoky-tomato-oregano-sauce)
+- [14) Protein Balls](#14-protein-balls)
 - [Sauce Pairing Guide](#sauce-pairing-guide)
 - [7-Day Low-Carb Meal Flow (Optional)](#7-day-low-carb-meal-flow-optional)
 - [Smart Low-Carb Shopping List](#smart-low-carb-shopping-list)
@@ -319,6 +320,34 @@ Created for quick, practical meals with lower net carbs and simple ingredients.
 ### Notes
 - Great on chicken thighs, meatballs, or as a shakshuka base.
 - Freezes well.
+
+---
+
+## 14) Protein Balls
+**Yield:** about 16 balls  
+**Estimated net carbs:** ~11g per ball
+
+### Ingredients
+- 1 1/2 cups oats
+- 1 cup peanut butter
+- 1/4 cup honey or maple syrup
+- 2 scoops protein powder (chocolate whey works well)
+
+### Optional Add-Ins
+- 1/4 cup flaxseed meal
+- 1/4 cup chia seeds
+- Chocolate chips, to taste
+
+### Instructions
+1. Add oats, peanut butter, honey (or maple syrup), and protein powder to a bowl.
+2. Mix until evenly combined.
+3. Fold in any optional add-ins.
+4. Scoop and roll into 16 balls.
+5. Chill for 20-30 minutes before serving.
+
+### Notes
+- Store in an airtight container in the fridge for up to 5 days.
+- For a lower-carb version, swap oats for almond flour and use a sugar-free syrup.
 
 ---
 
