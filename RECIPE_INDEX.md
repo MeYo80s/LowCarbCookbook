@@ -15,6 +15,7 @@ Structured recipe files for easier growth and maintenance.
 - [Taco Stuffed Bell Peppers](recipes/mains/taco-stuffed-bell-peppers.md)
 - [Creamy Tuscan Chicken](recipes/mains/creamy-tuscan-chicken.md)
 - [Sheet Pan Sausage and Veggies](recipes/mains/sheet-pan-sausage-and-veggies.md)
+- [Viral Cottage Cheese Flatbread Wrap](recipes/mains/viral-cottage-cheese-flatbread-wrap.md)
 
 ## Soups
 - [Broccoli Cheddar Soup (Low-Carb)](recipes/soups/broccoli-cheddar-soup-low-carb.md)
