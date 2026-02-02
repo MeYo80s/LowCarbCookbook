@@ -7,11 +7,11 @@ A simple, practical low-carb recipe collection with estimated net carbs, a 7-day
 - `RECIPE_INDEX.md` - category index for individual recipe files
 
 ## Recipe Highlights
-- 14 low-carb recipes across breakfast, mains, soups, sauces, and snacks
+- 15 low-carb recipes across breakfast, mains, soups, sauces, and snacks
 - Estimated net carbs per serving
 - Estimated macros per serving
 - 7-day meal flow for easy planning
-- Smart shopping list to simplify prep
+- Auto-generated weekly and all-recipes shopping lists
 
 ## How to Use
 1. Open `RECIPE_BOOK.md`.
@@ -40,4 +40,6 @@ Want to add recipes? Open a pull request with:
 2. Update `RECIPE_INDEX.md` when adding a new recipe file.
 3. Regenerate `RECIPE_BOOK.md` from individual recipes:
    - `python3 scripts/generate_recipe_book.py`
-4. Keep `RECIPE_BOOK.md` as your shareable master copy.
+4. Refresh shopping lists:
+   - `python3 scripts/update_shopping_lists.py`
+5. Keep `RECIPE_BOOK.md` as your shareable master copy.

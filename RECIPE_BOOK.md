@@ -22,7 +22,8 @@ Created for quick, practical meals with lower net carbs and simple ingredients.
 - [15) Viral Cottage Cheese Flatbread Wrap](#15-viral-cottage-cheese-flatbread-wrap)
 - [Sauce Pairing Guide](#sauce-pairing-guide)
 - [7-Day Low-Carb Meal Flow (Optional)](#7-day-low-carb-meal-flow-optional)
-- [Smart Low-Carb Shopping List](#smart-low-carb-shopping-list)
+- [7-Day Meal Flow Shopping List (Auto-Generated)](#7-day-meal-flow-shopping-list-auto-generated)
+- [Pantry and All-Recipes Staples (Auto-Generated)](#pantry-and-all-recipes-staples-auto-generated)
 
 ## How to Use This Book
 - **Serving sizes:** Most recipes serve 2-4.
@@ -426,8 +427,16 @@ Created for quick, practical meals with lower net carbs and simple ingredients.
 
 ---
 
-## Smart Low-Carb Shopping List
-- **Proteins:** eggs, chicken breast/thighs, salmon, ground turkey, ground beef, smoked sausage
-- **Produce:** spinach, romaine, zucchini, broccoli, asparagus, bell peppers, onion, garlic, cucumber, cherry tomatoes, lemons, fresh basil
-- **Dairy:** plain Greek yogurt, feta, cheddar, parmesan, heavy cream, butter
-- **Pantry:** olive oil, avocado oil, sesame oil, chia seeds, walnuts, almond flour, sugar-free maple syrup, protein powder, canned San Marzano tomatoes, oregano, smoked paprika, chili flakes, cinnamon, coconut aminos or soy sauce, no-sugar salsa/marinara
+## 7-Day Meal Flow Shopping List (Auto-Generated)
+- Generated from recipes referenced in the current 7-day meal flow.
+- **Proteins:** chicken breast, chicken thighs, eggs, ground beef, ground turkey, salmon, smoked sausage
+- **Produce:** asparagus, bell peppers, broccoli, cherry tomatoes, cucumber, fresh basil, garlic, green onions, lemon, lemon juice, onion, romaine, spinach, sun-dried tomatoes, zucchini
+- **Dairy:** butter, cheddar, feta, greek yogurt, heavy cream, parmesan
+- **Pantry:** almond milk, avocado oil, cauliflower rice, chia seeds, chicken broth, cinnamon, coconut aminos, italian seasoning, monk fruit sweetener, olive oil, olives, oregano, salsa, san marzano tomatoes, sesame oil, smoked paprika, soy sauce, taco seasoning, walnuts
+
+## Pantry and All-Recipes Staples (Auto-Generated)
+- Generated from ingredients across all recipes in `recipes/`.
+- **Proteins:** chicken breast, chicken thighs, eggs, ground beef, ground turkey, protein powder, salmon, smoked sausage
+- **Produce:** asparagus, bell peppers, broccoli, cherry tomatoes, cucumber, fresh basil, garlic, green onions, lemon, lemon juice, onion, romaine, spinach, sun-dried tomatoes, zucchini
+- **Dairy:** butter, cheddar, cottage cheese, feta, greek yogurt, heavy cream, parmesan
+- **Pantry:** almond flour, almond milk, avocado oil, cauliflower rice, chia seeds, chicken broth, cinnamon, coconut aminos, italian seasoning, monk fruit sweetener, olive oil, olives, oregano, peanut butter, salsa, san marzano tomatoes, sesame oil, smoked paprika, soy sauce, sugar-free maple syrup, taco seasoning, walnuts

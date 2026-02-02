@@ -15,7 +15,8 @@ KEEP_SECTIONS = [
     "Macro Key",
     "Sauce Pairing Guide",
     "7-Day Low-Carb Meal Flow (Optional)",
-    "Smart Low-Carb Shopping List",
+    "7-Day Meal Flow Shopping List (Auto-Generated)",
+    "Pantry and All-Recipes Staples (Auto-Generated)",
 ]
 
 
@@ -74,7 +75,8 @@ def build_toc(recipe_titles: list[str]) -> list[str]:
         [
             "- [Sauce Pairing Guide](#sauce-pairing-guide)",
             "- [7-Day Low-Carb Meal Flow (Optional)](#7-day-low-carb-meal-flow-optional)",
-            "- [Smart Low-Carb Shopping List](#smart-low-carb-shopping-list)",
+            "- [7-Day Meal Flow Shopping List (Auto-Generated)](#7-day-meal-flow-shopping-list-auto-generated)",
+            "- [Pantry and All-Recipes Staples (Auto-Generated)](#pantry-and-all-recipes-staples-auto-generated)",
         ]
     )
     return lines
