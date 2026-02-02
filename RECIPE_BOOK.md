@@ -16,6 +16,7 @@ Created for quick, practical meals with lower net carbs and simple ingredients.
 - [10) Chia Vanilla Pudding](#10-chia-vanilla-pudding)
 - [11) Greek Yogurt Bowl with Walnuts and Cinnamon](#11-greek-yogurt-bowl-with-walnuts-and-cinnamon)
 - [12) Lemon-Basil Yogurt Sauce](#12-lemon-basil-yogurt-sauce)
+- [13) Smoky Tomato-Oregano Sauce](#13-smoky-tomato-oregano-sauce)
 - [7-Day Low-Carb Meal Flow (Optional)](#7-day-low-carb-meal-flow-optional)
 - [Smart Low-Carb Shopping List](#smart-low-carb-shopping-list)
 
@@ -291,6 +292,31 @@ Created for quick, practical meals with lower net carbs and simple ingredients.
 ### Notes
 - Keeps 4-5 days refrigerated.
 - Works as a marinade base; thin with a splash of water if needed.
+
+---
+
+## 13) Smoky Tomato-Oregano Sauce
+**Yield:** about 2 cups  
+**Estimated net carbs:** ~3g per 1/4 cup
+
+### Ingredients
+- 1 tbsp olive oil
+- 2 cloves garlic, minced (or 1 tsp garlic powder)
+- 1 (14-28 oz) can San Marzano tomatoes, crushed by hand
+- 1 tsp oregano
+- 1/2 tsp smoked paprika
+- 1/2 tsp salt, plus more to taste
+- Pinch of chili flakes (optional)
+
+### Instructions
+1. Warm olive oil in a saucepan over medium heat.
+2. Add garlic and cook 30-60 seconds.
+3. Add tomatoes, oregano, smoked paprika, salt, and chili flakes.
+4. Simmer 12-15 minutes, then taste and adjust seasoning.
+
+### Notes
+- Great on chicken thighs, meatballs, or as a shakshuka base.
+- Freezes well.
 
 ---
 
