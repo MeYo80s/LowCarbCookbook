@@ -321,18 +321,18 @@ Created for quick, practical meals with lower net carbs and simple ingredients.
 ---
 
 ## 7-Day Low-Carb Meal Flow (Optional)
-- **Day 1:** Egg Muffins / Greek Chicken Salad / Salmon + Asparagus
-- **Day 2:** Chia Pudding / Leftover Salmon Salad / Taco Peppers
-- **Day 3:** Egg Muffins / Cauliflower Fried Rice / Tuscan Chicken
-- **Day 4:** Chia Pudding / Greek Salad Bowl / Sausage + Veggies
-- **Day 5:** Egg Muffins / Leftover Tuscan Chicken / Zoodle Bolognese
-- **Day 6:** Chia Pudding / Broccoli Cheddar Soup / Taco Peppers
-- **Day 7:** Egg Muffins / Soup + Side Salad / Salmon + Asparagus
+- **Day 1:** Egg Muffins / Greek Chicken Salad / Salmon + Asparagus + Lemon-Basil Yogurt Sauce
+- **Day 2:** Greek Yogurt Bowl / Leftover Salmon Salad / Taco Peppers + Smoky Tomato-Oregano Sauce
+- **Day 3:** Egg Muffins / Cauliflower Fried Rice / Tuscan Chicken + Lemon-Basil Yogurt Sauce
+- **Day 4:** Greek Yogurt Bowl / Greek Salad Bowl / Sausage + Veggies + Smoky Tomato-Oregano Sauce
+- **Day 5:** Egg Muffins / Leftover Tuscan Chicken / Zoodle Bolognese + Smoky Tomato-Oregano Sauce
+- **Day 6:** Greek Yogurt Bowl / Broccoli Cheddar Soup / Taco Peppers + Lemon-Basil Yogurt Sauce
+- **Day 7:** Chia Pudding / Soup + Side Salad / Salmon + Asparagus + Lemon-Basil Yogurt Sauce
 
 ---
 
 ## Smart Low-Carb Shopping List
 - **Proteins:** eggs, chicken breast/thighs, salmon, ground turkey, ground beef, smoked sausage
-- **Produce:** spinach, romaine, zucchini, broccoli, asparagus, bell peppers, onion, garlic, cucumber, tomatoes
-- **Dairy:** feta, cheddar, parmesan, heavy cream, butter
-- **Pantry:** olive oil, avocado oil, sesame oil, chia seeds, spices, coconut aminos or soy sauce, no-sugar salsa/marinara
+- **Produce:** spinach, romaine, zucchini, broccoli, asparagus, bell peppers, onion, garlic, cucumber, cherry tomatoes, lemons, fresh basil
+- **Dairy:** plain Greek yogurt, feta, cheddar, parmesan, heavy cream, butter
+- **Pantry:** olive oil, avocado oil, sesame oil, chia seeds, walnuts, canned San Marzano tomatoes, oregano, smoked paprika, chili flakes, cinnamon, coconut aminos or soy sauce, no-sugar salsa/marinara
