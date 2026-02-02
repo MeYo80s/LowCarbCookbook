@@ -14,6 +14,7 @@ Created for quick, practical meals with lower net carbs and simple ingredients.
 - [8) Broccoli Cheddar Soup (Low-Carb)](#8-broccoli-cheddar-soup-low-carb)
 - [9) Sheet Pan Sausage and Veggies](#9-sheet-pan-sausage-and-veggies)
 - [10) Chia Vanilla Pudding](#10-chia-vanilla-pudding)
+- [11) Greek Yogurt Bowl with Walnuts and Cinnamon](#11-greek-yogurt-bowl-with-walnuts-and-cinnamon)
 - [7-Day Low-Carb Meal Flow (Optional)](#7-day-low-carb-meal-flow-optional)
 - [Smart Low-Carb Shopping List](#smart-low-carb-shopping-list)
 
@@ -237,6 +238,33 @@ Created for quick, practical meals with lower net carbs and simple ingredients.
 2. Stir in chia seeds well.
 3. Refrigerate 3+ hours (or overnight), stirring once after 10 minutes.
 4. Serve cold with optional toppings.
+
+---
+
+## 11) Greek Yogurt Bowl with Walnuts and Cinnamon
+**Serves:** 1 bowl  
+**Estimated net carbs:** ~9g per bowl (without optional fruit)
+
+### Ingredients
+- 1 cup plain Greek yogurt (2% or whole)
+- 2 tbsp walnuts, roughly chopped
+- 1/2 tsp ground cinnamon
+- Pinch of salt (optional)
+
+### Optional Add-Ins (choose 1-2)
+- 1/2 cup strawberries, sliced
+- 1 tsp chia seeds
+- 1/2 tsp vanilla extract
+- 1 scoop collagen
+
+### Instructions
+1. Add Greek yogurt to a bowl.
+2. Stir in cinnamon and a pinch of salt.
+3. Top with walnuts and any optional add-ins.
+
+### Notes
+- For extra sweetness without refined sugar, add berries.
+- For a thicker texture, use strained Greek yogurt.
 
 ---
 
