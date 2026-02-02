@@ -4,10 +4,12 @@ A simple, practical low-carb recipe collection with estimated net carbs, a 7-day
 
 ## What's In This Repo
 - `RECIPE_BOOK.md` - the full recipe book
+- `RECIPE_INDEX.md` - category index for individual recipe files
 
 ## Recipe Highlights
-- 10 low-carb recipes (breakfast, lunch, dinner, soup, and dessert)
+- 14 low-carb recipes across breakfast, mains, soups, sauces, and snacks
 - Estimated net carbs per serving
+- Estimated macros per serving
 - 7-day meal flow for easy planning
 - Smart shopping list to simplify prep
 
@@ -26,3 +28,14 @@ Want to add recipes? Open a pull request with:
 - Ingredients
 - Instructions
 - Estimated net carbs per serving
+
+## Repo Structure
+- `RECIPE_BOOK.md` - full cookbook in one file
+- `RECIPE_INDEX.md` - quick links to individual recipe files
+- `recipes/` - categorized recipe files (`breakfast`, `mains`, `soups`, `sauces`, `snacks`)
+- `templates/recipe-template.md` - copy/paste template for new recipes
+
+## Recommended Workflow
+1. Add or edit a recipe in `recipes/...`.
+2. Keep `RECIPE_BOOK.md` as your shareable master copy.
+3. Update `RECIPE_INDEX.md` when adding a new recipe file.
