@@ -4,6 +4,7 @@ Created for quick, practical meals with lower net carbs and simple ingredients.
 
 ## Table of Contents
 - [How to Use This Book](#how-to-use-this-book)
+- [Macro Key](#macro-key)
 - [1) Spinach Feta Egg Muffins](#1-spinach-feta-egg-muffins)
 - [2) Greek Chicken Salad Bowls](#2-greek-chicken-salad-bowls)
 - [3) Garlic Butter Salmon with Asparagus](#3-garlic-butter-salmon-with-asparagus)
@@ -27,6 +28,15 @@ Created for quick, practical meals with lower net carbs and simple ingredients.
 - **Net carbs:** Estimated as total carbs minus fiber.
 - **Macros:** Estimated per serving (calories, protein, fat, total carbs).
 - **Protein-forward:** Meals are built to be filling and blood-sugar friendly.
+
+---
+
+## Macro Key
+- **Raise protein:** add lean meat, egg whites, or plain Greek yogurt.
+- **Raise healthy fats:** add olive oil, avocado, nuts, or seeds.
+- **Lower carbs:** swap starchy ingredients for non-starchy vegetables.
+- **Lower calories:** reduce oils, cheese, or high-fat add-ins.
+- **Portion shortcut:** if macros feel high, start with 3/4 serving.
 
 ---
 
