@@ -198,9 +198,6 @@ Created for quick, practical meals with lower net carbs and simple ingredients.
 ---
 
 ## 7) Creamy Tuscan Chicken
-![Creamy Tuscan Chicken](assets/recipes/creamy-tuscan-chicken.jpg)
-
-
 **Serves:** 4  
 **Estimated net carbs:** ~7g per serving
 **Estimated macros:** ~520 cal | 37g protein | 37g fat | 8g carbs
