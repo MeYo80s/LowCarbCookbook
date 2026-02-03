@@ -379,6 +379,8 @@ Created for quick, practical meals with lower net carbs and simple ingredients.
 ---
 
 ## 15) Viral Cottage Cheese Flatbread Wrap
+![Viral Cottage Cheese Flatbread Wrap](assets/recipes/viral-cottage-cheese-flatbread-wrap.jpg)
+
 **Serves:** 2 wraps  
 **Estimated net carbs:** ~4g per wrap
 **Estimated macros:** ~130 cal | 13g protein | 6g fat | 5g carbs
@@ -433,8 +435,6 @@ Created for quick, practical meals with lower net carbs and simple ingredients.
 - **Produce:** asparagus, bell peppers, broccoli, cherry tomatoes, cucumber, fresh basil, garlic, green onions, lemon, lemon juice, onion, romaine, spinach, sun-dried tomatoes, zucchini
 - **Dairy:** butter, cheddar, feta, greek yogurt, heavy cream, parmesan
 - **Pantry:** almond milk, avocado oil, cauliflower rice, chia seeds, chicken broth, cinnamon, coconut aminos, italian seasoning, monk fruit sweetener, olive oil, olives, oregano, salsa, san marzano tomatoes, sesame oil, smoked paprika, soy sauce, taco seasoning, walnuts
-
----
 
 ## Pantry and All-Recipes Staples (Auto-Generated)
 - Generated from ingredients across all recipes in `recipes/`.

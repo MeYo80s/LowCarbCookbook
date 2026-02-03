@@ -1,5 +1,7 @@
 # Viral Cottage Cheese Flatbread Wrap
 
+![Viral Cottage Cheese Flatbread Wrap](../../assets/recipes/viral-cottage-cheese-flatbread-wrap.jpg)
+
 **Serves:** 2 wraps  
 **Estimated net carbs:** ~4g per wrap
 **Estimated macros:** ~130 cal | 13g protein | 6g fat | 5g carbs
