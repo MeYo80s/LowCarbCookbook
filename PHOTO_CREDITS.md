@@ -16,5 +16,4 @@ Recipe photos sourced from Wikimedia Commons (or noted otherwise).
 | Lemon-Basil Yogurt Sauce | File:Yogurt-mint sauce.jpg | https://commons.wikimedia.org/wiki/File:Yogurt-mint_sauce.jpg |
 | Smoky Tomato-Oregano Sauce | File:Fresh Tomato Sauce (Unsplash).jpg | https://commons.wikimedia.org/wiki/File%3AFresh_Tomato_Sauce_%28Unsplash%29.jpg |
 | Broccoli Cheddar Soup (Low-Carb) | File:Broccoli and cheddar soup - Pausa Cafe, Dunelm Shoreham 2026-01-13.jpg | https://commons.wikimedia.org/wiki/File%3ABroccoli_and_cheddar_soup_-_Pausa_Cafe%2C_Dunelm_Shoreham_2026-01-13.jpg |
-| Creamy Tuscan Chicken | File:Creamy chicken with asparagus1.jpg | https://commons.wikimedia.org/wiki/File:Creamy_chicken_with_asparagus1.jpg |
-| Protein Balls | File:Buckeyes Peanut Butter Balls(cropped).jpg | https://commons.wikimedia.org/wiki/File%3ABuckeyes_Peanut_Butter_Balls%28cropped%29.jpg |
+| Creamy Tuscan Chicken | File:Pan seared chicken with mango 2.jpg | https://commons.wikimedia.org/wiki/File:Pan_seared_chicken_with_mango_2.jpg |

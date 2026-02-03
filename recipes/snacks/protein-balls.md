@@ -1,7 +1,5 @@
 # Protein Balls
 
-![Protein Balls](../../assets/recipes/protein-balls.jpg)
-
 **Yield:** about 16 balls  
 **Estimated net carbs:** ~3.5g per ball (without chocolate chips)
 **Estimated macros:** ~115 cal | 6g protein | 8g fat | 5g carbs (per ball)
