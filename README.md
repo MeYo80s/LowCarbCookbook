@@ -18,6 +18,13 @@ A simple, practical low-carb recipe collection with estimated net carbs, a 7-day
 2. Pick recipes for the week (or follow the 7-day meal flow).
 3. Use the shopping list section to plan groceries.
 
+## Website View (GitHub Pages)
+- After enabling GitHub Pages for this repo, share:
+  - `https://meyo80s.github.io/LowCarbCookbook/`
+- In GitHub: `Settings` -> `Pages` -> `Build and deployment`
+  - `Source`: `Deploy from a branch`
+  - `Branch`: `main` and `/ (root)`
+
 ## Notes
 - Net carbs are estimates and can vary by ingredient brands.
 - Check labels for hidden sugars in sauces and packaged foods.
