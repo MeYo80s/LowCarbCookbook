@@ -434,6 +434,8 @@ Created for quick, practical meals with lower net carbs and simple ingredients.
 - **Dairy:** butter, cheddar, feta, greek yogurt, heavy cream, parmesan
 - **Pantry:** almond milk, avocado oil, cauliflower rice, chia seeds, chicken broth, cinnamon, coconut aminos, italian seasoning, monk fruit sweetener, olive oil, olives, oregano, salsa, san marzano tomatoes, sesame oil, smoked paprika, soy sauce, taco seasoning, walnuts
 
+---
+
 ## Pantry and All-Recipes Staples (Auto-Generated)
 - Generated from ingredients across all recipes in `recipes/`.
 - **Proteins:** chicken breast, chicken thighs, eggs, ground beef, ground turkey, protein powder, salmon, smoked sausage

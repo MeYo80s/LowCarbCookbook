@@ -60,7 +60,33 @@ def parse_recipe_file(path: Path) -> tuple[str, str]:
         raise ValueError(f"Recipe missing title heading: {path}")
     title = lines[0][2:].strip()
     body = "\n".join(lines[1:]).strip()
+    body = normalize_markdown_paths(body, path)
     return title, body
+
+
+def normalize_markdown_paths(body: str, recipe_path: Path) -> str:
+    # Convert recipe-relative markdown asset links to repo-root-relative links
+    # so they render correctly inside RECIPE_BOOK.md.
+    link_re = re.compile(r"(!?\[[^\]]*\]\()([^)]+)(\))")
+
+    def repl(match: re.Match[str]) -> str:
+        prefix, target, suffix = match.groups()
+        target = target.strip()
+        if target.startswith(("http://", "https://", "mailto:", "data:", "#", "/")):
+            return match.group(0)
+
+        parts = target.split(maxsplit=1)
+        rel = parts[0].strip("<>")
+        rest = f" {parts[1]}" if len(parts) > 1 else ""
+
+        resolved = (recipe_path.parent / rel).resolve()
+        try:
+            normalized = resolved.relative_to(ROOT).as_posix()
+        except ValueError:
+            return match.group(0)
+        return f"{prefix}{normalized}{rest}{suffix}"
+
+    return link_re.sub(repl, body)
 
 
 def build_toc(recipe_titles: list[str]) -> list[str]:

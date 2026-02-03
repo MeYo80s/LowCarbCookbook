@@ -33,7 +33,13 @@ Want to add recipes? Open a pull request with:
 - `RECIPE_BOOK.md` - full cookbook in one file
 - `RECIPE_INDEX.md` - quick links to individual recipe files
 - `recipes/` - categorized recipe files (`breakfast`, `mains`, `soups`, `sauces`, `snacks`)
+- `assets/recipes/` - optional recipe photos
 - `templates/recipe-template.md` - copy/paste template for new recipes
+
+## Optional Recipe Photos
+- Add images to `assets/recipes/` using slug-style names.
+- In recipe files, use image paths like `../../assets/recipes/recipe-name.jpg`.
+- If a recipe has no photo, just remove the image line in the template.
 
 ## Recommended Workflow
 1. Add or edit a recipe in `recipes/...`.
