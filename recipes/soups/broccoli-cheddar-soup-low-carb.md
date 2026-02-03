@@ -1,5 +1,8 @@
 # Broccoli Cheddar Soup (Low-Carb)
 
+![Broccoli Cheddar Soup (Low-Carb)](../../assets/recipes/broccoli-cheddar-soup-low-carb.jpg)
+
+
 **Serves:** 4  
 **Estimated net carbs:** ~8g per serving
 **Estimated macros:** ~390 cal | 14g protein | 31g fat | 11g carbs

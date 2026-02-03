@@ -1,5 +1,8 @@
 # Greek Chicken Salad Bowls
 
+![Greek Chicken Salad Bowls](../../assets/recipes/greek-chicken-salad-bowls.jpg)
+
+
 **Serves:** 4  
 **Estimated net carbs:** ~7g per serving
 **Estimated macros:** ~420 cal | 45g protein | 22g fat | 9g carbs

@@ -1,5 +1,8 @@
 # Cauliflower Fried Rice
 
+![Cauliflower Fried Rice](../../assets/recipes/cauliflower-fried-rice.jpg)
+
+
 **Serves:** 4  
 **Estimated net carbs:** ~6g per serving
 **Estimated macros:** ~280 cal | 19g protein | 17g fat | 9g carbs

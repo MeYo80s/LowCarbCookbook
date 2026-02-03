@@ -1,5 +1,8 @@
 # Zucchini Noodle Turkey Bolognese
 
+![Zucchini Noodle Turkey Bolognese](../../assets/recipes/zucchini-noodle-turkey-bolognese.jpg)
+
+
 **Serves:** 4  
 **Estimated net carbs:** ~8g per serving
 **Estimated macros:** ~360 cal | 32g protein | 20g fat | 10g carbs

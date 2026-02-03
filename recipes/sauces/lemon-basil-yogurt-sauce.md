@@ -1,5 +1,8 @@
 # Lemon-Basil Yogurt Sauce
 
+![Lemon-Basil Yogurt Sauce](../../assets/recipes/lemon-basil-yogurt-sauce.jpg)
+
+
 **Yield:** about 1 cup  
 **Estimated net carbs:** ~1.5g per 2 tbsp
 **Estimated macros:** ~35 cal | 2g protein | 2g fat | 2g carbs (per 2 tbsp)

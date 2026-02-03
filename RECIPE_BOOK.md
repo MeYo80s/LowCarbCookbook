@@ -43,6 +43,9 @@ Created for quick, practical meals with lower net carbs and simple ingredients.
 ---
 
 ## 1) Spinach Feta Egg Muffins
+![Spinach Feta Egg Muffins](assets/recipes/spinach-feta-bacon-egg-muffins.jpg)
+
+
 **Serves:** 6 (1 muffin each)  
 **Estimated net carbs:** ~1.6g per muffin
 **Estimated macros:** ~170 cal | 11g protein | 13g fat | 2g carbs
@@ -65,6 +68,9 @@ Created for quick, practical meals with lower net carbs and simple ingredients.
 ---
 
 ## 2) Greek Chicken Salad Bowls
+![Greek Chicken Salad Bowls](assets/recipes/greek-chicken-salad-bowls.jpg)
+
+
 **Serves:** 4  
 **Estimated net carbs:** ~7g per serving
 **Estimated macros:** ~420 cal | 45g protein | 22g fat | 9g carbs
@@ -89,6 +95,9 @@ Created for quick, practical meals with lower net carbs and simple ingredients.
 ---
 
 ## 3) Garlic Butter Salmon with Asparagus
+![Garlic Butter Salmon with Asparagus](assets/recipes/garlic-butter-salmon-with-asparagus.jpg)
+
+
 **Serves:** 4  
 **Estimated net carbs:** ~5g per serving
 **Estimated macros:** ~410 cal | 34g protein | 27g fat | 6g carbs
@@ -110,6 +119,9 @@ Created for quick, practical meals with lower net carbs and simple ingredients.
 ---
 
 ## 4) Zucchini Noodle Turkey Bolognese
+![Zucchini Noodle Turkey Bolognese](assets/recipes/zucchini-noodle-turkey-bolognese.jpg)
+
+
 **Serves:** 4  
 **Estimated net carbs:** ~8g per serving
 **Estimated macros:** ~360 cal | 32g protein | 20g fat | 10g carbs
@@ -133,6 +145,9 @@ Created for quick, practical meals with lower net carbs and simple ingredients.
 ---
 
 ## 5) Cauliflower Fried Rice
+![Cauliflower Fried Rice](assets/recipes/cauliflower-fried-rice.jpg)
+
+
 **Serves:** 4  
 **Estimated net carbs:** ~6g per serving
 **Estimated macros:** ~280 cal | 19g protein | 17g fat | 9g carbs
@@ -157,6 +172,9 @@ Created for quick, practical meals with lower net carbs and simple ingredients.
 ---
 
 ## 6) Taco Stuffed Bell Peppers
+![Taco Stuffed Bell Peppers](assets/recipes/taco-stuffed-bell-peppers.jpg)
+
+
 **Serves:** 4  
 **Estimated net carbs:** ~9g per serving
 **Estimated macros:** ~430 cal | 28g protein | 30g fat | 12g carbs
@@ -180,6 +198,9 @@ Created for quick, practical meals with lower net carbs and simple ingredients.
 ---
 
 ## 7) Creamy Tuscan Chicken
+![Creamy Tuscan Chicken](assets/recipes/creamy-tuscan-chicken.jpg)
+
+
 **Serves:** 4  
 **Estimated net carbs:** ~7g per serving
 **Estimated macros:** ~520 cal | 37g protein | 37g fat | 8g carbs
@@ -204,6 +225,9 @@ Created for quick, practical meals with lower net carbs and simple ingredients.
 ---
 
 ## 8) Broccoli Cheddar Soup (Low-Carb)
+![Broccoli Cheddar Soup (Low-Carb)](assets/recipes/broccoli-cheddar-soup-low-carb.jpg)
+
+
 **Serves:** 4  
 **Estimated net carbs:** ~8g per serving
 **Estimated macros:** ~390 cal | 14g protein | 31g fat | 11g carbs
@@ -227,6 +251,9 @@ Created for quick, practical meals with lower net carbs and simple ingredients.
 ---
 
 ## 9) Sheet Pan Sausage and Veggies
+![Sheet Pan Sausage and Veggies](assets/recipes/sheet-pan-sausage-and-veggies.jpg)
+
+
 **Serves:** 4  
 **Estimated net carbs:** ~9g per serving
 **Estimated macros:** ~430 cal | 16g protein | 33g fat | 12g carbs
@@ -250,6 +277,9 @@ Created for quick, practical meals with lower net carbs and simple ingredients.
 ---
 
 ## 10) Chia Vanilla Pudding
+![Chia Vanilla Pudding](assets/recipes/chia-vanilla-pudding.jpg)
+
+
 **Serves:** 4  
 **Estimated net carbs:** ~4g per serving
 **Estimated macros:** ~220 cal | 7g protein | 14g fat | 9g carbs
@@ -270,6 +300,9 @@ Created for quick, practical meals with lower net carbs and simple ingredients.
 ---
 
 ## 11) Greek Yogurt Bowl with Walnuts and Cinnamon
+![Greek Yogurt Bowl with Walnuts and Cinnamon](assets/recipes/greek-yogurt-bowl-with-walnuts-and-cinnamon.jpg)
+
+
 **Serves:** 1 bowl  
 **Estimated net carbs:** ~9g per bowl (without optional fruit)
 **Estimated macros:** ~280 cal | 26g protein | 15g fat | 10g carbs
@@ -298,6 +331,9 @@ Created for quick, practical meals with lower net carbs and simple ingredients.
 ---
 
 ## 12) Lemon-Basil Yogurt Sauce
+![Lemon-Basil Yogurt Sauce](assets/recipes/lemon-basil-yogurt-sauce.jpg)
+
+
 **Yield:** about 1 cup  
 **Estimated net carbs:** ~1.5g per 2 tbsp
 **Estimated macros:** ~35 cal | 2g protein | 2g fat | 2g carbs (per 2 tbsp)
@@ -324,6 +360,9 @@ Created for quick, practical meals with lower net carbs and simple ingredients.
 ---
 
 ## 13) Smoky Tomato-Oregano Sauce
+![Smoky Tomato-Oregano Sauce](assets/recipes/smoky-tomato-oregano-sauce.jpg)
+
+
 **Yield:** about 2 cups  
 **Estimated net carbs:** ~3g per 1/4 cup
 **Estimated macros:** ~45 cal | 1g protein | 2g fat | 6g carbs (per 1/4 cup)
@@ -350,6 +389,8 @@ Created for quick, practical meals with lower net carbs and simple ingredients.
 ---
 
 ## 14) Protein Balls
+![Protein Balls](assets/recipes/protein-balls.jpg)
+
 **Yield:** about 16 balls  
 **Estimated net carbs:** ~3.5g per ball (without chocolate chips)
 **Estimated macros:** ~115 cal | 6g protein | 8g fat | 5g carbs (per ball)

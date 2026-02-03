@@ -1,5 +1,8 @@
 # Smoky Tomato-Oregano Sauce
 
+![Smoky Tomato-Oregano Sauce](../../assets/recipes/smoky-tomato-oregano-sauce.jpg)
+
+
 **Yield:** about 2 cups  
 **Estimated net carbs:** ~3g per 1/4 cup
 **Estimated macros:** ~45 cal | 1g protein | 2g fat | 6g carbs (per 1/4 cup)

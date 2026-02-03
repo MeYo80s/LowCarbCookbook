@@ -1,5 +1,8 @@
 # Greek Yogurt Bowl with Walnuts and Cinnamon
 
+![Greek Yogurt Bowl with Walnuts and Cinnamon](../../assets/recipes/greek-yogurt-bowl-with-walnuts-and-cinnamon.jpg)
+
+
 **Serves:** 1 bowl  
 **Estimated net carbs:** ~9g per bowl (without optional fruit)
 **Estimated macros:** ~280 cal | 26g protein | 15g fat | 10g carbs

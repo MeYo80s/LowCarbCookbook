@@ -1,5 +1,8 @@
 # Garlic Butter Salmon with Asparagus
 
+![Garlic Butter Salmon with Asparagus](../../assets/recipes/garlic-butter-salmon-with-asparagus.jpg)
+
+
 **Serves:** 4  
 **Estimated net carbs:** ~5g per serving
 **Estimated macros:** ~410 cal | 34g protein | 27g fat | 6g carbs

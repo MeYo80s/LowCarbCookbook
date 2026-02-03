@@ -1,5 +1,8 @@
 # Chia Vanilla Pudding
 
+![Chia Vanilla Pudding](../../assets/recipes/chia-vanilla-pudding.jpg)
+
+
 **Serves:** 4  
 **Estimated net carbs:** ~4g per serving
 **Estimated macros:** ~220 cal | 7g protein | 14g fat | 9g carbs

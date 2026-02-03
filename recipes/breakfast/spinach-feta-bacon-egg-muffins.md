@@ -1,5 +1,8 @@
 # Spinach Feta Egg Muffins
 
+![Spinach Feta Egg Muffins](../../assets/recipes/spinach-feta-bacon-egg-muffins.jpg)
+
+
 **Serves:** 6 (1 muffin each)  
 **Estimated net carbs:** ~1.6g per muffin
 **Estimated macros:** ~170 cal | 11g protein | 13g fat | 2g carbs

@@ -1,5 +1,8 @@
 # Sheet Pan Sausage and Veggies
 
+![Sheet Pan Sausage and Veggies](../../assets/recipes/sheet-pan-sausage-and-veggies.jpg)
+
+
 **Serves:** 4  
 **Estimated net carbs:** ~9g per serving
 **Estimated macros:** ~430 cal | 16g protein | 33g fat | 12g carbs

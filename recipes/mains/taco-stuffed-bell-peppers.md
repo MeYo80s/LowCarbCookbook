@@ -1,5 +1,8 @@
 # Taco Stuffed Bell Peppers
 
+![Taco Stuffed Bell Peppers](../../assets/recipes/taco-stuffed-bell-peppers.jpg)
+
+
 **Serves:** 4  
 **Estimated net carbs:** ~9g per serving
 **Estimated macros:** ~430 cal | 28g protein | 30g fat | 12g carbs
