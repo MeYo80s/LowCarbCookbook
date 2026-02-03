@@ -10,6 +10,7 @@ Recipe photos sourced from Wikimedia Commons (or noted otherwise).
 | Cauliflower Fried Rice | Existing local image | (pre-existing) |
 | Garlic Butter Salmon with Asparagus | Existing local image | (pre-existing) |
 | Greek Chicken Salad Bowls | File:Greek Salad from Thessaloniki.jpg | https://commons.wikimedia.org/wiki/File:Greek_Salad_from_Thessaloniki.jpg |
+| Creamy Tuscan Chicken | User-provided image | (local upload) |
 | Sheet Pan Sausage and Veggies | File:Sausage and peppers.jpg | https://commons.wikimedia.org/wiki/File%3ASausage_and_peppers.jpg |
 | Taco Stuffed Bell Peppers | File:Quinoa stuffed peppers.jpg | https://commons.wikimedia.org/wiki/File%3AQuinoa_stuffed_peppers.jpg |
 | Viral Cottage Cheese Flatbread Wrap | Pexels photo | https://www.pexels.com/ |

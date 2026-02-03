@@ -1,5 +1,7 @@
 # Creamy Tuscan Chicken
 
+![Creamy Tuscan Chicken](../../assets/recipes/creamy-tuscan-chicken.png)
+
 **Serves:** 4  
 **Estimated net carbs:** ~7g per serving
 **Estimated macros:** ~520 cal | 37g protein | 37g fat | 8g carbs
