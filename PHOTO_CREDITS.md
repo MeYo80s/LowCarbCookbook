@@ -11,6 +11,7 @@ Recipe photos sourced from Wikimedia Commons (or noted otherwise).
 | Garlic Butter Salmon with Asparagus | Existing local image | (pre-existing) |
 | Greek Chicken Salad Bowls | File:Greek Salad from Thessaloniki.jpg | https://commons.wikimedia.org/wiki/File:Greek_Salad_from_Thessaloniki.jpg |
 | Creamy Tuscan Chicken | User-provided image | (local upload) |
+| Loaded Cauliflower Casserole | File:Creamy cauliflower casserole.jpg | https://commons.wikimedia.org/wiki/File:Creamy_cauliflower_casserole.jpg |
 | Protein Balls | User-provided image | (local upload) |
 | Sheet Pan Sausage and Veggies | File:Sausage and peppers.jpg | https://commons.wikimedia.org/wiki/File%3ASausage_and_peppers.jpg |
 | Taco Stuffed Bell Peppers | File:Quinoa stuffed peppers.jpg | https://commons.wikimedia.org/wiki/File%3AQuinoa_stuffed_peppers.jpg |

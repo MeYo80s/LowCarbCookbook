@@ -12,6 +12,7 @@ Structured recipe files for easier growth and maintenance.
 - [Garlic Butter Salmon with Asparagus](recipes/mains/garlic-butter-salmon-with-asparagus.md)
 - [Zucchini Noodle Turkey Bolognese](recipes/mains/zucchini-noodle-turkey-bolognese.md)
 - [Cauliflower Fried Rice](recipes/mains/cauliflower-fried-rice.md)
+- [Loaded Cauliflower Casserole](recipes/mains/loaded-cauliflower-casserole.md)
 - [Taco Stuffed Bell Peppers](recipes/mains/taco-stuffed-bell-peppers.md)
 - [Creamy Tuscan Chicken](recipes/mains/creamy-tuscan-chicken.md)
 - [Sheet Pan Sausage and Veggies](recipes/mains/sheet-pan-sausage-and-veggies.md)
