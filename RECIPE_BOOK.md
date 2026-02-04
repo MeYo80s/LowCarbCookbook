@@ -20,6 +20,7 @@ Created for quick, practical meals with lower net carbs and simple ingredients.
 - [13) Smoky Tomato-Oregano Sauce](#13-smoky-tomato-oregano-sauce)
 - [14) Protein Balls](#14-protein-balls)
 - [15) Viral Cottage Cheese Flatbread Wrap](#15-viral-cottage-cheese-flatbread-wrap)
+- [16) Viral Chicken Crust Pizza (Chicken Parm Style)](#16-viral-chicken-crust-pizza-chicken-parm-style)
 - [Sauce Pairing Guide](#sauce-pairing-guide)
 - [7-Day Low-Carb Meal Flow (Optional)](#7-day-low-carb-meal-flow-optional)
 - [7-Day Meal Flow Shopping List (Auto-Generated)](#7-day-meal-flow-shopping-list-auto-generated)
@@ -451,6 +452,46 @@ Created for quick, practical meals with lower net carbs and simple ingredients.
 
 ---
 
+## 16) Viral Chicken Crust Pizza (Chicken Parm Style)
+![Viral Chicken Crust Pizza (Chicken Parm Style)](assets/recipes/viral-chicken-crust-pizza-chicken-parm-style.jpg)
+
+**Serves:** 4  
+**Estimated net carbs:** ~5g per serving
+**Estimated macros:** ~390 cal | 43g protein | 21g fat | 7g carbs
+
+### Ingredients
+- 1 1/2 lb ground chicken
+- 1/2 cup grated parmesan
+- 1 large egg
+- 1 tsp garlic powder
+- 1 tsp Italian seasoning
+- 1/2 tsp salt
+- 1/4 tsp black pepper
+- 1/2 cup no-sugar-added marinara
+- 1 1/4 cups shredded mozzarella
+- 2 tbsp fresh basil, chopped (optional)
+
+### Optional Toppings
+- Turkey pepperoni
+- Sliced mushrooms
+- Red onion, very thinly sliced
+- Crushed red pepper flakes
+
+### Instructions
+1. Heat oven to 425 F and line a sheet pan with parchment.
+2. In a bowl, combine ground chicken, parmesan, egg, garlic powder, Italian seasoning, salt, and pepper.
+3. Press mixture into a thin rectangle or circle (about 1/4 inch thick).
+4. Bake 18-22 minutes until cooked through and lightly browned.
+5. Remove, spread marinara, top with mozzarella (and optional toppings).
+6. Bake 6-8 minutes more until cheese melts and bubbles.
+7. Rest 3 minutes, top with basil, then slice and serve.
+
+### Notes
+- For a crispier crust, broil 1-2 minutes before adding sauce and cheese.
+- Let it cool slightly before slicing so the crust holds together.
+
+---
+
 ## Sauce Pairing Guide
 - **Lemon-Basil Yogurt Sauce:** salmon, grilled chicken, shrimp bowls, roasted veggies, taco peppers
 - **Smoky Tomato-Oregano Sauce:** turkey meatballs, chicken thighs, zucchini noodles, cauliflower rice, shakshuka-style eggs
@@ -459,13 +500,13 @@ Created for quick, practical meals with lower net carbs and simple ingredients.
 ---
 
 ## 7-Day Low-Carb Meal Flow (Optional)
-- **Day 1:** Egg Muffins / Greek Chicken Salad / Salmon + Asparagus + Lemon-Basil Yogurt Sauce
-- **Day 2:** Greek Yogurt Bowl / Leftover Salmon Salad / Taco Peppers + Smoky Tomato-Oregano Sauce
-- **Day 3:** Egg Muffins / Cauliflower Fried Rice / Tuscan Chicken + Lemon-Basil Yogurt Sauce
-- **Day 4:** Greek Yogurt Bowl / Greek Salad Bowl / Sausage + Veggies + Smoky Tomato-Oregano Sauce
-- **Day 5:** Egg Muffins / Leftover Tuscan Chicken / Zoodle Bolognese + Smoky Tomato-Oregano Sauce
-- **Day 6:** Greek Yogurt Bowl / Broccoli Cheddar Soup / Taco Peppers + Lemon-Basil Yogurt Sauce
-- **Day 7:** Chia Pudding / Soup + Side Salad / Salmon + Asparagus + Lemon-Basil Yogurt Sauce
+- **Day 1:** Spinach Feta Egg Muffins / Greek Chicken Salad Bowls / Garlic Butter Salmon with Asparagus / Lemon-Basil Yogurt Sauce
+- **Day 2:** Greek Yogurt Bowl with Walnuts and Cinnamon / Taco Stuffed Bell Peppers / Smoky Tomato-Oregano Sauce
+- **Day 3:** Spinach Feta Egg Muffins / Cauliflower Fried Rice / Creamy Tuscan Chicken / Lemon-Basil Yogurt Sauce
+- **Day 4:** Greek Chicken Salad Bowls / Sheet Pan Sausage and Veggies / Smoky Tomato-Oregano Sauce
+- **Day 5:** Spinach Feta Egg Muffins / Zucchini Noodle Turkey Bolognese / Smoky Tomato-Oregano Sauce
+- **Day 6:** Greek Yogurt Bowl with Walnuts and Cinnamon / Broccoli Cheddar Soup (Low-Carb) / Taco Stuffed Bell Peppers / Lemon-Basil Yogurt Sauce
+- **Day 7:** Chia Vanilla Pudding / Garlic Butter Salmon with Asparagus / Lemon-Basil Yogurt Sauce
 
 ---
 
