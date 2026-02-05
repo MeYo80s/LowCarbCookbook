@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 from __future__ import annotations
 
+import json
 import re
 from collections import defaultdict
 from pathlib import Path
@@ -9,6 +10,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parents[1]
 BOOK_PATH = ROOT / "RECIPE_BOOK.md"
 INDEX_PATH = ROOT / "RECIPE_INDEX.md"
+PLAN_PATH = ROOT / "weekly_plan.json"
 
 WEEKLY_SECTION = "7-Day Meal Flow Shopping List (Auto-Generated)"
 PANTRY_SECTION = "Pantry and All-Recipes Staples (Auto-Generated)"
@@ -217,6 +219,24 @@ def parse_week_flow(flow_text: str) -> set[str]:
     return found
 
 
+def parse_week_plan_file() -> set[str]:
+    if not PLAN_PATH.exists():
+        return set()
+    try:
+        payload = json.loads(PLAN_PATH.read_text(encoding="utf-8"))
+    except json.JSONDecodeError:
+        return set()
+
+    titles: set[str] = set()
+    for item in payload.get("days", []):
+        recipes = item.get("recipes", [])
+        if isinstance(recipes, list):
+            for recipe in recipes:
+                if isinstance(recipe, str) and recipe.strip():
+                    titles.add(recipe.strip())
+    return titles
+
+
 def replace_section(text: str, title: str, new_body: str) -> str:
     pattern = rf"(?ms)^## {re.escape(title)}\n.*?(?=^## |\Z)"
     replacement = f"## {title}\n{new_body.strip()}\n\n"
@@ -232,7 +252,9 @@ def main() -> None:
     recipe_paths = parse_recipe_paths(index_text)
 
     title_to_path = {recipe_title(p): p for p in recipe_paths}
-    weekly_titles = parse_week_flow(sections.get(FLOW_SECTION, ""))
+    weekly_titles = parse_week_plan_file()
+    if not weekly_titles:
+        weekly_titles = parse_week_flow(sections.get(FLOW_SECTION, ""))
 
     weekly_items: set[str] = set()
     for t in weekly_titles:

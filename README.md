@@ -51,8 +51,11 @@ Want to add recipes? Open a pull request with:
 ## Recommended Workflow
 1. Add or edit a recipe in `recipes/...`.
 2. Update `RECIPE_INDEX.md` when adding a new recipe file.
-3. Regenerate `RECIPE_BOOK.md` from individual recipes:
+3. Choose your week in `weekly_plan.json` (recipe titles must match index titles).
+4. Generate your 7-day menu:
+   - `python3 scripts/generate_weekly_plan.py`
+5. Regenerate `RECIPE_BOOK.md` from individual recipes:
    - `python3 scripts/generate_recipe_book.py`
-4. Refresh shopping lists:
+6. Refresh shopping lists:
    - `python3 scripts/update_shopping_lists.py`
-5. Keep `RECIPE_BOOK.md` as your shareable master copy.
+7. Keep `RECIPE_BOOK.md` as your shareable master copy.
