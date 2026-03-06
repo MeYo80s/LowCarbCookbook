@@ -15,7 +15,6 @@ Recipe photos sourced from Wikimedia Commons (or noted otherwise).
 | Loaded Cauliflower Casserole | File:Creamy cauliflower casserole.jpg | https://commons.wikimedia.org/wiki/File:Creamy_cauliflower_casserole.jpg |
 | Protein Balls | User-provided image | (local upload) |
 | Sheet Pan Sausage and Veggies | File:Sausage and peppers.jpg | https://commons.wikimedia.org/wiki/File%3ASausage_and_peppers.jpg |
-| Taco Stuffed Bell Peppers | File:Quinoa stuffed peppers.jpg | https://commons.wikimedia.org/wiki/File%3AQuinoa_stuffed_peppers.jpg |
 | Viral Cottage Cheese Flatbread Wrap | Pexels photo | https://www.pexels.com/ |
 | Viral Cottage Cheese Taco Bowl | User-provided screenshot | (local upload) |
 | Viral Cottage Cheese Queso | User-provided image | (local upload) |
@@ -23,4 +22,4 @@ Recipe photos sourced from Wikimedia Commons (or noted otherwise).
 | Viral Chicken Crust Pizza (Chicken Parm Style) | File:Chicken Alfredo Pizza (4270373800).jpg | https://commons.wikimedia.org/wiki/File:Chicken_Alfredo_Pizza_(4270373800).jpg |
 | Lemon-Basil Yogurt Sauce | File:Yogurt-mint sauce.jpg | https://commons.wikimedia.org/wiki/File:Yogurt-mint_sauce.jpg |
 | Smoky Tomato-Oregano Sauce | File:Fresh Tomato Sauce (Unsplash).jpg | https://commons.wikimedia.org/wiki/File%3AFresh_Tomato_Sauce_%28Unsplash%29.jpg |
-| Broccoli Cheddar Soup (Low-Carb) | File:Broccoli and cheddar soup - Pausa Cafe, Dunelm Shoreham 2026-01-13.jpg | https://commons.wikimedia.org/wiki/File%3ABroccoli_and_cheddar_soup_-_Pausa_Cafe%2C_Dunelm_Shoreham_2026-01-13.jpg |
+| Broccoli Cheddar Soup (Low-Carb) | User-provided image | (local upload) |

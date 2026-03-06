@@ -31,8 +31,8 @@ ALIAS_TO_TITLE = {
     "soup": "Broccoli Cheddar Soup (Low-Carb)",
     "chia pudding": "Chia Vanilla Pudding",
     "greek yogurt bowl": "Greek Yogurt Bowl with Walnuts and Cinnamon",
-    "taco peppers": "Taco Stuffed Bell Peppers",
-    "lemon-basil yogurt sauce": "Lemon-Basil Yogurt Sauce",
+    "lemon-basil yogurt sauce": "Lemon-Mint Yogurt Sauce",
+    "lemon-mint yogurt sauce": "Lemon-Mint Yogurt Sauce",
     "smoky tomato-oregano sauce": "Smoky Tomato-Oregano Sauce",
     "viral cottage cheese flatbread wrap": "Viral Cottage Cheese Flatbread Wrap",
 }

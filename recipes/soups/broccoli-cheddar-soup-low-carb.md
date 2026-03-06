@@ -1,6 +1,6 @@
 # Broccoli Cheddar Soup (Low-Carb)
 
-![Broccoli Cheddar Soup (Low-Carb)](../../assets/recipes/broccoli-cheddar-soup-low-carb.jpg)
+![Broccoli Cheddar Soup (Low-Carb)](../../assets/recipes/broccoli-cheddar-soup-low-carb.png)
 
 
 **Serves:** 4  

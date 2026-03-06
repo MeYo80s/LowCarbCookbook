@@ -10,22 +10,21 @@ Created for quick, practical meals with lower net carbs and simple ingredients.
 - [3) Garlic Butter Salmon with Asparagus](#3-garlic-butter-salmon-with-asparagus)
 - [4) Zucchini Noodle Turkey Bolognese](#4-zucchini-noodle-turkey-bolognese)
 - [5) Cauliflower Fried Rice](#5-cauliflower-fried-rice)
-- [6) Taco Stuffed Bell Peppers](#6-taco-stuffed-bell-peppers)
-- [7) Creamy Tuscan Chicken](#7-creamy-tuscan-chicken)
-- [8) Broccoli Cheddar Soup (Low-Carb)](#8-broccoli-cheddar-soup-low-carb)
-- [9) Sheet Pan Sausage and Veggies](#9-sheet-pan-sausage-and-veggies)
-- [10) Chia Vanilla Pudding](#10-chia-vanilla-pudding)
-- [11) Greek Yogurt Bowl with Walnuts and Cinnamon](#11-greek-yogurt-bowl-with-walnuts-and-cinnamon)
-- [12) Smoky Tomato-Oregano Sauce](#12-smoky-tomato-oregano-sauce)
-- [13) Protein Balls](#13-protein-balls)
-- [14) Viral Cottage Cheese Flatbread Wrap](#14-viral-cottage-cheese-flatbread-wrap)
-- [15) Viral Chicken Crust Pizza (Chicken Parm Style)](#15-viral-chicken-crust-pizza-chicken-parm-style)
-- [16) Loaded Cauliflower Casserole](#16-loaded-cauliflower-casserole)
-- [17) Creamy Chicken Piccata](#17-creamy-chicken-piccata)
-- [18) Lemon-Mint Yogurt Sauce](#18-lemon-mint-yogurt-sauce)
-- [19) Viral Cottage Cheese Taco Bowl](#19-viral-cottage-cheese-taco-bowl)
-- [20) Viral Cottage Cheese Queso](#20-viral-cottage-cheese-queso)
-- [21) Viral Ranch Cottage Cheese Dip/Sauce](#21-viral-ranch-cottage-cheese-dip-sauce)
+- [6) Creamy Tuscan Chicken](#6-creamy-tuscan-chicken)
+- [7) Broccoli Cheddar Soup (Low-Carb)](#7-broccoli-cheddar-soup-low-carb)
+- [8) Sheet Pan Sausage and Veggies](#8-sheet-pan-sausage-and-veggies)
+- [9) Chia Vanilla Pudding](#9-chia-vanilla-pudding)
+- [10) Greek Yogurt Bowl with Walnuts and Cinnamon](#10-greek-yogurt-bowl-with-walnuts-and-cinnamon)
+- [11) Smoky Tomato-Oregano Sauce](#11-smoky-tomato-oregano-sauce)
+- [12) Protein Balls](#12-protein-balls)
+- [13) Viral Cottage Cheese Flatbread Wrap](#13-viral-cottage-cheese-flatbread-wrap)
+- [14) Viral Chicken Crust Pizza (Chicken Parm Style)](#14-viral-chicken-crust-pizza-chicken-parm-style)
+- [15) Loaded Cauliflower Casserole](#15-loaded-cauliflower-casserole)
+- [16) Creamy Chicken Piccata](#16-creamy-chicken-piccata)
+- [17) Lemon-Mint Yogurt Sauce](#17-lemon-mint-yogurt-sauce)
+- [18) Viral Cottage Cheese Taco Bowl](#18-viral-cottage-cheese-taco-bowl)
+- [19) Viral Cottage Cheese Queso](#19-viral-cottage-cheese-queso)
+- [20) Viral Ranch Cottage Cheese Dip/Sauce](#20-viral-ranch-cottage-cheese-dip-sauce)
 - [Sauce Pairing Guide](#sauce-pairing-guide)
 - [7-Day Low-Carb Meal Flow (Optional)](#7-day-low-carb-meal-flow-optional)
 - [7-Day Meal Flow Shopping List (Auto-Generated)](#7-day-meal-flow-shopping-list-auto-generated)
@@ -177,33 +176,7 @@ Created for quick, practical meals with lower net carbs and simple ingredients.
 
 ---
 
-## 6) Taco Stuffed Bell Peppers
-![Taco Stuffed Bell Peppers](assets/recipes/taco-stuffed-bell-peppers.jpg)
-
-
-**Serves:** 4  
-**Estimated net carbs:** ~9g per serving
-**Estimated macros:** ~430 cal | 28g protein | 30g fat | 12g carbs
-
-### Ingredients
-- 4 bell peppers, halved and seeded
-- 1 lb ground beef
-- 1 tbsp olive oil
-- 2 tsp taco seasoning (no sugar)
-- 1/2 cup salsa (no sugar added)
-- 1 cup shredded cheddar
-- Optional toppings: sour cream, avocado, cilantro
-
-### Instructions
-1. Heat oven to 375 F. Place pepper halves in baking dish.
-2. Brown beef in olive oil; stir in taco seasoning and salsa.
-3. Fill pepper halves with beef mixture.
-4. Cover and bake 25 minutes.
-5. Uncover, add cheese, bake 8-10 more minutes.
-
----
-
-## 7) Creamy Tuscan Chicken
+## 6) Creamy Tuscan Chicken
 ![Creamy Tuscan Chicken](assets/recipes/creamy-tuscan-chicken.png)
 
 **Serves:** 4  
@@ -229,8 +202,8 @@ Created for quick, practical meals with lower net carbs and simple ingredients.
 
 ---
 
-## 8) Broccoli Cheddar Soup (Low-Carb)
-![Broccoli Cheddar Soup (Low-Carb)](assets/recipes/broccoli-cheddar-soup-low-carb.jpg)
+## 7) Broccoli Cheddar Soup (Low-Carb)
+![Broccoli Cheddar Soup (Low-Carb)](assets/recipes/broccoli-cheddar-soup-low-carb.png)
 
 
 **Serves:** 4  
@@ -255,7 +228,7 @@ Created for quick, practical meals with lower net carbs and simple ingredients.
 
 ---
 
-## 9) Sheet Pan Sausage and Veggies
+## 8) Sheet Pan Sausage and Veggies
 ![Sheet Pan Sausage and Veggies](assets/recipes/sheet-pan-sausage-and-veggies.jpg)
 
 
@@ -281,7 +254,7 @@ Created for quick, practical meals with lower net carbs and simple ingredients.
 
 ---
 
-## 10) Chia Vanilla Pudding
+## 9) Chia Vanilla Pudding
 ![Chia Vanilla Pudding](assets/recipes/chia-vanilla-pudding.jpg)
 
 
@@ -304,7 +277,7 @@ Created for quick, practical meals with lower net carbs and simple ingredients.
 
 ---
 
-## 11) Greek Yogurt Bowl with Walnuts and Cinnamon
+## 10) Greek Yogurt Bowl with Walnuts and Cinnamon
 ![Greek Yogurt Bowl with Walnuts and Cinnamon](assets/recipes/greek-yogurt-bowl-with-walnuts-and-cinnamon.jpg)
 
 
@@ -335,7 +308,7 @@ Created for quick, practical meals with lower net carbs and simple ingredients.
 
 ---
 
-## 12) Smoky Tomato-Oregano Sauce
+## 11) Smoky Tomato-Oregano Sauce
 ![Smoky Tomato-Oregano Sauce](assets/recipes/smoky-tomato-oregano-sauce.jpg)
 
 
@@ -364,7 +337,7 @@ Created for quick, practical meals with lower net carbs and simple ingredients.
 
 ---
 
-## 13) Protein Balls
+## 12) Protein Balls
 ![Protein Balls](assets/recipes/protein-balls.png)
 
 **Yield:** about 16 balls  
@@ -395,7 +368,7 @@ Created for quick, practical meals with lower net carbs and simple ingredients.
 
 ---
 
-## 14) Viral Cottage Cheese Flatbread Wrap
+## 13) Viral Cottage Cheese Flatbread Wrap
 ![Viral Cottage Cheese Flatbread Wrap](assets/recipes/viral-cottage-cheese-flatbread-wrap.jpg)
 
 **Serves:** 2 wraps  
@@ -428,7 +401,7 @@ Created for quick, practical meals with lower net carbs and simple ingredients.
 
 ---
 
-## 15) Viral Chicken Crust Pizza (Chicken Parm Style)
+## 14) Viral Chicken Crust Pizza (Chicken Parm Style)
 ![Viral Chicken Crust Pizza (Chicken Parm Style)](assets/recipes/viral-chicken-crust-pizza-chicken-parm-style.jpg)
 
 **Serves:** 4  
@@ -468,7 +441,7 @@ Created for quick, practical meals with lower net carbs and simple ingredients.
 
 ---
 
-## 16) Loaded Cauliflower Casserole
+## 15) Loaded Cauliflower Casserole
 ![Loaded Cauliflower Casserole](assets/recipes/loaded-cauliflower-casserole.jpg)
 
 **Serves:** 6  
@@ -506,7 +479,7 @@ Created for quick, practical meals with lower net carbs and simple ingredients.
 
 ---
 
-## 17) Creamy Chicken Piccata
+## 16) Creamy Chicken Piccata
 ![Creamy Chicken Piccata](assets/recipes/creamy-chicken-piccata.jpg)
 
 **Serves:** 4  
@@ -545,7 +518,7 @@ Created for quick, practical meals with lower net carbs and simple ingredients.
 
 ---
 
-## 18) Lemon-Mint Yogurt Sauce
+## 17) Lemon-Mint Yogurt Sauce
 ![Lemon-Mint Yogurt Sauce](assets/recipes/lemon-basil-yogurt-sauce.jpg)
 
 
@@ -574,7 +547,7 @@ Created for quick, practical meals with lower net carbs and simple ingredients.
 
 ---
 
-## 19) Viral Cottage Cheese Taco Bowl
+## 18) Viral Cottage Cheese Taco Bowl
 ![Viral Cottage Cheese Taco Bowl](assets/recipes/viral-cottage-cheese-taco-bowl.png)
 
 **Serves:** 4  
@@ -615,7 +588,7 @@ Created for quick, practical meals with lower net carbs and simple ingredients.
 
 ---
 
-## 20) Viral Cottage Cheese Queso
+## 19) Viral Cottage Cheese Queso
 ![Viral Cottage Cheese Queso](assets/recipes/viral-cottage-cheese-queso.png)
 
 **Yield:** about 2 cups  
@@ -651,7 +624,7 @@ Created for quick, practical meals with lower net carbs and simple ingredients.
 
 ---
 
-## 21) Viral Ranch Cottage Cheese Dip/Sauce
+## 20) Viral Ranch Cottage Cheese Dip/Sauce
 ![Viral Ranch Cottage Cheese Dip/Sauce](assets/recipes/viral-ranch-cottage-cheese-dip-sauce.png)
 
 **Yield:** about 1 1/2 cups  
@@ -695,28 +668,24 @@ Created for quick, practical meals with lower net carbs and simple ingredients.
 ---
 
 ## 7-Day Low-Carb Meal Flow (Optional)
-- **Day 1:** Spinach Feta Egg Muffins / Greek Chicken Salad Bowls / Garlic Butter Salmon with Asparagus / Lemon-Basil Yogurt Sauce
-- **Day 2:** Greek Yogurt Bowl with Walnuts and Cinnamon / Taco Stuffed Bell Peppers / Smoky Tomato-Oregano Sauce
-- **Day 3:** Spinach Feta Egg Muffins / Cauliflower Fried Rice / Creamy Tuscan Chicken / Lemon-Basil Yogurt Sauce
+- **Day 1:** Spinach Feta Egg Muffins / Greek Chicken Salad Bowls / Garlic Butter Salmon with Asparagus / Lemon-Mint Yogurt Sauce
+- **Day 2:** Greek Yogurt Bowl with Walnuts and Cinnamon / Viral Cottage Cheese Taco Bowl / Smoky Tomato-Oregano Sauce
+- **Day 3:** Spinach Feta Egg Muffins / Cauliflower Fried Rice / Creamy Tuscan Chicken / Lemon-Mint Yogurt Sauce
 - **Day 4:** Greek Chicken Salad Bowls / Sheet Pan Sausage and Veggies / Smoky Tomato-Oregano Sauce
 - **Day 5:** Spinach Feta Egg Muffins / Zucchini Noodle Turkey Bolognese / Smoky Tomato-Oregano Sauce
-- **Day 6:** Greek Yogurt Bowl with Walnuts and Cinnamon / Broccoli Cheddar Soup (Low-Carb) / Taco Stuffed Bell Peppers / Lemon-Basil Yogurt Sauce
-- **Day 7:** Chia Vanilla Pudding / Garlic Butter Salmon with Asparagus / Lemon-Basil Yogurt Sauce
-
----
+- **Day 6:** Greek Yogurt Bowl with Walnuts and Cinnamon / Broccoli Cheddar Soup (Low-Carb) / Viral Cottage Cheese Taco Bowl / Lemon-Mint Yogurt Sauce
+- **Day 7:** Chia Vanilla Pudding / Garlic Butter Salmon with Asparagus / Lemon-Mint Yogurt Sauce
 
 ## 7-Day Meal Flow Shopping List (Auto-Generated)
 - Generated from recipes referenced in the current 7-day meal flow.
 - **Proteins:** chicken breast, chicken thighs, eggs, ground beef, ground turkey, salmon, smoked sausage
-- **Produce:** asparagus, bell peppers, broccoli, cherry tomatoes, cucumber, fresh basil, garlic, green onions, lemon, lemon juice, onion, romaine, spinach, sun-dried tomatoes, zucchini
-- **Dairy:** butter, cheddar, feta, greek yogurt, heavy cream, parmesan
-- **Pantry:** almond milk, avocado oil, cauliflower rice, chia seeds, chicken broth, cinnamon, coconut aminos, italian seasoning, monk fruit sweetener, olive oil, olives, oregano, salsa, san marzano tomatoes, sesame oil, smoked paprika, soy sauce, taco seasoning, walnuts
-
----
+- **Produce:** asparagus, broccoli, cherry tomatoes, cucumber, garlic, green onions, lemon, lemon juice, onion, romaine, spinach, sun-dried tomatoes, zucchini
+- **Dairy:** butter, cheddar, cottage cheese, feta, greek yogurt, heavy cream, parmesan
+- **Pantry:** almond milk, avocado oil, cauliflower rice, chia seeds, chicken broth, cinnamon, coconut aminos, italian seasoning, monk fruit sweetener, olive oil, olives, oregano, san marzano tomatoes, sesame oil, smoked paprika, soy sauce, taco seasoning, walnuts
 
 ## Pantry and All-Recipes Staples (Auto-Generated)
 - Generated from ingredients across all recipes in `recipes/`.
 - **Proteins:** chicken breast, chicken thighs, eggs, ground beef, ground turkey, protein powder, salmon, smoked sausage
-- **Produce:** asparagus, bell peppers, broccoli, cherry tomatoes, cucumber, fresh basil, garlic, green onions, lemon, lemon juice, onion, romaine, spinach, sun-dried tomatoes, zucchini
+- **Produce:** asparagus, broccoli, cherry tomatoes, cucumber, garlic, green onions, lemon, lemon juice, onion, romaine, spinach, sun-dried tomatoes, zucchini
 - **Dairy:** butter, cheddar, cottage cheese, feta, greek yogurt, heavy cream, parmesan
-- **Pantry:** almond flour, almond milk, avocado oil, cauliflower rice, chia seeds, chicken broth, cinnamon, coconut aminos, italian seasoning, monk fruit sweetener, olive oil, olives, oregano, peanut butter, salsa, san marzano tomatoes, sesame oil, smoked paprika, soy sauce, sugar-free maple syrup, taco seasoning, walnuts
+- **Pantry:** almond flour, almond milk, avocado oil, cauliflower rice, chia seeds, chicken broth, cinnamon, coconut aminos, italian seasoning, monk fruit sweetener, olive oil, olives, oregano, peanut butter, san marzano tomatoes, sesame oil, smoked paprika, soy sauce, sugar-free maple syrup, taco seasoning, walnuts
