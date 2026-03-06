@@ -7,6 +7,7 @@ Recipe photos sourced from Wikimedia Commons (or noted otherwise).
 | Chia Vanilla Pudding | Existing local image | (pre-existing) |
 | Greek Yogurt Bowl with Walnuts and Cinnamon | Existing local image | (pre-existing) |
 | Spinach Feta Egg Muffins | File:Egg-muffin (49218808517).jpg | https://commons.wikimedia.org/wiki/File:Egg-muffin_(49218808517).jpg |
+| Banana Protein Pancakes | User-provided image | (local upload) |
 | Cauliflower Fried Rice | Existing local image | (pre-existing) |
 | Garlic Butter Salmon with Asparagus | Existing local image | (pre-existing) |
 | Greek Chicken Salad Bowls | File:Greek Salad from Thessaloniki.jpg | https://commons.wikimedia.org/wiki/File:Greek_Salad_from_Thessaloniki.jpg |

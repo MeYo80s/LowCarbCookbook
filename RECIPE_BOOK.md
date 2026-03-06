@@ -662,6 +662,8 @@ Created for quick, practical meals with lower net carbs and simple ingredients.
 ---
 
 ## 21) Banana Protein Pancakes
+![Banana Protein Pancakes](assets/recipes/banana-protein-pancakes.png)
+
 **Serves:** 4  
 **Estimated net carbs:** ~7g per serving (without syrup)
 **Estimated macros:** ~55 cal | 4g protein | 1g fat | 8g carbs (per serving, without syrup)
