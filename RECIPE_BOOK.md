@@ -16,13 +16,13 @@ Created for quick, practical meals with lower net carbs and simple ingredients.
 - [9) Sheet Pan Sausage and Veggies](#9-sheet-pan-sausage-and-veggies)
 - [10) Chia Vanilla Pudding](#10-chia-vanilla-pudding)
 - [11) Greek Yogurt Bowl with Walnuts and Cinnamon](#11-greek-yogurt-bowl-with-walnuts-and-cinnamon)
-- [12) Lemon-Basil Yogurt Sauce](#12-lemon-basil-yogurt-sauce)
-- [13) Smoky Tomato-Oregano Sauce](#13-smoky-tomato-oregano-sauce)
-- [14) Protein Balls](#14-protein-balls)
-- [15) Viral Cottage Cheese Flatbread Wrap](#15-viral-cottage-cheese-flatbread-wrap)
-- [16) Viral Chicken Crust Pizza (Chicken Parm Style)](#16-viral-chicken-crust-pizza-chicken-parm-style)
-- [17) Loaded Cauliflower Casserole](#17-loaded-cauliflower-casserole)
-- [18) Creamy Chicken Piccata](#18-creamy-chicken-piccata)
+- [12) Smoky Tomato-Oregano Sauce](#12-smoky-tomato-oregano-sauce)
+- [13) Protein Balls](#13-protein-balls)
+- [14) Viral Cottage Cheese Flatbread Wrap](#14-viral-cottage-cheese-flatbread-wrap)
+- [15) Viral Chicken Crust Pizza (Chicken Parm Style)](#15-viral-chicken-crust-pizza-chicken-parm-style)
+- [16) Loaded Cauliflower Casserole](#16-loaded-cauliflower-casserole)
+- [17) Creamy Chicken Piccata](#17-creamy-chicken-piccata)
+- [18) Lemon-Mint Yogurt Sauce](#18-lemon-mint-yogurt-sauce)
 - [Sauce Pairing Guide](#sauce-pairing-guide)
 - [7-Day Low-Carb Meal Flow (Optional)](#7-day-low-carb-meal-flow-optional)
 - [7-Day Meal Flow Shopping List (Auto-Generated)](#7-day-meal-flow-shopping-list-auto-generated)
@@ -332,36 +332,7 @@ Created for quick, practical meals with lower net carbs and simple ingredients.
 
 ---
 
-## 12) Lemon-Basil Yogurt Sauce
-![Lemon-Basil Yogurt Sauce](assets/recipes/lemon-basil-yogurt-sauce.jpg)
-
-
-**Yield:** about 1 cup  
-**Estimated net carbs:** ~1.5g per 2 tbsp
-**Estimated macros:** ~35 cal | 2g protein | 2g fat | 2g carbs (per 2 tbsp)
-
-### Ingredients
-- 1 cup plain Greek yogurt
-- 1 small garlic clove, finely grated (or 1/2 tsp garlic powder)
-- Zest of 1 lemon
-- 1-2 tbsp lemon juice, to taste
-- 2 tbsp fresh basil, finely chopped
-- 1/2 tsp salt
-- Black pepper, to taste
-- 1-2 tsp olive oil (optional)
-
-### Instructions
-1. Stir all ingredients together in a bowl.
-2. Rest 5 minutes to let flavors blend.
-3. Adjust salt and lemon juice to taste.
-
-### Notes
-- Keeps 4-5 days refrigerated.
-- Works as a marinade base; thin with a splash of water if needed.
-
----
-
-## 13) Smoky Tomato-Oregano Sauce
+## 12) Smoky Tomato-Oregano Sauce
 ![Smoky Tomato-Oregano Sauce](assets/recipes/smoky-tomato-oregano-sauce.jpg)
 
 
@@ -390,7 +361,7 @@ Created for quick, practical meals with lower net carbs and simple ingredients.
 
 ---
 
-## 14) Protein Balls
+## 13) Protein Balls
 ![Protein Balls](assets/recipes/protein-balls.png)
 
 **Yield:** about 16 balls  
@@ -421,7 +392,7 @@ Created for quick, practical meals with lower net carbs and simple ingredients.
 
 ---
 
-## 15) Viral Cottage Cheese Flatbread Wrap
+## 14) Viral Cottage Cheese Flatbread Wrap
 ![Viral Cottage Cheese Flatbread Wrap](assets/recipes/viral-cottage-cheese-flatbread-wrap.jpg)
 
 **Serves:** 2 wraps  
@@ -454,7 +425,7 @@ Created for quick, practical meals with lower net carbs and simple ingredients.
 
 ---
 
-## 16) Viral Chicken Crust Pizza (Chicken Parm Style)
+## 15) Viral Chicken Crust Pizza (Chicken Parm Style)
 ![Viral Chicken Crust Pizza (Chicken Parm Style)](assets/recipes/viral-chicken-crust-pizza-chicken-parm-style.jpg)
 
 **Serves:** 4  
@@ -494,7 +465,7 @@ Created for quick, practical meals with lower net carbs and simple ingredients.
 
 ---
 
-## 17) Loaded Cauliflower Casserole
+## 16) Loaded Cauliflower Casserole
 ![Loaded Cauliflower Casserole](assets/recipes/loaded-cauliflower-casserole.jpg)
 
 **Serves:** 6  
@@ -532,7 +503,7 @@ Created for quick, practical meals with lower net carbs and simple ingredients.
 
 ---
 
-## 18) Creamy Chicken Piccata
+## 17) Creamy Chicken Piccata
 ![Creamy Chicken Piccata](assets/recipes/creamy-chicken-piccata.jpg)
 
 **Serves:** 4  
@@ -568,6 +539,35 @@ Created for quick, practical meals with lower net carbs and simple ingredients.
 ### Notes
 - Serve with zucchini noodles, cauliflower mash, or roasted broccoli to keep it low-carb.
 - Want more zing? Add lemon zest at the end.
+
+---
+
+## 18) Lemon-Mint Yogurt Sauce
+![Lemon-Mint Yogurt Sauce](assets/recipes/lemon-basil-yogurt-sauce.jpg)
+
+
+**Yield:** about 1 cup  
+**Estimated net carbs:** ~1.5g per 2 tbsp
+**Estimated macros:** ~35 cal | 2g protein | 2g fat | 2g carbs (per 2 tbsp)
+
+### Ingredients
+- 1 cup plain Greek yogurt
+- 1 small garlic clove, finely grated (or 1/2 tsp garlic powder)
+- Zest of 1 lemon
+- 1-2 tbsp lemon juice, to taste
+- 1 tsp fresh mint, finely chopped
+- 1/2 tsp salt
+- Black pepper, to taste
+- 1-2 tsp olive oil (optional)
+
+### Instructions
+1. Stir all ingredients together in a bowl.
+2. Rest 5 minutes to let flavors blend.
+3. Adjust salt and lemon juice to taste.
+
+### Notes
+- Keeps 4-5 days refrigerated.
+- Works as a marinade base; thin with a splash of water if needed.
 
 ---
 

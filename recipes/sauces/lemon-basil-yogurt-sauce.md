@@ -1,6 +1,6 @@
-# Lemon-Basil Yogurt Sauce
+# Lemon-Mint Yogurt Sauce
 
-![Lemon-Basil Yogurt Sauce](../../assets/recipes/lemon-basil-yogurt-sauce.jpg)
+![Lemon-Mint Yogurt Sauce](../../assets/recipes/lemon-basil-yogurt-sauce.jpg)
 
 
 **Yield:** about 1 cup  
@@ -12,7 +12,7 @@
 - 1 small garlic clove, finely grated (or 1/2 tsp garlic powder)
 - Zest of 1 lemon
 - 1-2 tbsp lemon juice, to taste
-- 2 tbsp fresh basil, finely chopped
+- 1 tsp fresh mint, finely chopped
 - 1/2 tsp salt
 - Black pepper, to taste
 - 1-2 tsp olive oil (optional)

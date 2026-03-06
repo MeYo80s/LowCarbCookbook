@@ -24,7 +24,7 @@ Structured recipe files for easier growth and maintenance.
 - [Broccoli Cheddar Soup (Low-Carb)](recipes/soups/broccoli-cheddar-soup-low-carb.md)
 
 ## Sauces
-- [Lemon-Basil Yogurt Sauce](recipes/sauces/lemon-basil-yogurt-sauce.md)
+- [Lemon-Mint Yogurt Sauce](recipes/sauces/lemon-basil-yogurt-sauce.md)
 - [Smoky Tomato-Oregano Sauce](recipes/sauces/smoky-tomato-oregano-sauce.md)
 
 ## Snacks
