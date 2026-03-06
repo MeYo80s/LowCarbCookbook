@@ -1,5 +1,7 @@
 # Viral Ranch Cottage Cheese Dip/Sauce
 
+![Viral Ranch Cottage Cheese Dip/Sauce](../../assets/recipes/viral-ranch-cottage-cheese-dip-sauce.png)
+
 **Yield:** about 1 1/2 cups  
 **Estimated net carbs:** ~1g per 2 tbsp
 **Estimated macros:** ~30 cal | 3g protein | 1g fat | 2g carbs (per 2 tbsp)

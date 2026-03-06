@@ -1,5 +1,7 @@
 # Viral Cottage Cheese Queso
 
+![Viral Cottage Cheese Queso](../../assets/recipes/viral-cottage-cheese-queso.png)
+
 **Yield:** about 2 cups  
 **Estimated net carbs:** ~2g per 1/4 cup
 **Estimated macros:** ~90 cal | 8g protein | 6g fat | 3g carbs (per 1/4 cup)
