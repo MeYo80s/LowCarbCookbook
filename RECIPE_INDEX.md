@@ -6,6 +6,7 @@ Structured recipe files for easier growth and maintenance.
 - [Spinach Feta Bacon Egg Muffins](recipes/breakfast/spinach-feta-bacon-egg-muffins.md)
 - [Chia Vanilla Pudding](recipes/breakfast/chia-vanilla-pudding.md)
 - [Greek Yogurt Bowl with Walnuts and Cinnamon](recipes/breakfast/greek-yogurt-bowl-with-walnuts-and-cinnamon.md)
+- [Banana Protein Pancakes](recipes/breakfast/banana-protein-pancakes.md)
 
 ## Mains
 - [Greek Chicken Salad Bowls](recipes/mains/greek-chicken-salad-bowls.md)
