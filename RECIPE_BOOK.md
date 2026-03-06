@@ -573,7 +573,7 @@ Created for quick, practical meals with lower net carbs and simple ingredients.
 ---
 
 ## 19) Viral Cottage Cheese Taco Bowl
-![Viral Cottage Cheese Taco Bowl](assets/recipes/viral-cottage-cheese-taco-bowl.jpg)
+![Viral Cottage Cheese Taco Bowl](assets/recipes/viral-cottage-cheese-taco-bowl.png)
 
 **Serves:** 4  
 **Estimated net carbs:** ~7g per serving
