@@ -17,6 +17,7 @@ Recipe photos sourced from Wikimedia Commons (or noted otherwise).
 | Sheet Pan Sausage and Veggies | File:Sausage and peppers.jpg | https://commons.wikimedia.org/wiki/File%3ASausage_and_peppers.jpg |
 | Taco Stuffed Bell Peppers | File:Quinoa stuffed peppers.jpg | https://commons.wikimedia.org/wiki/File%3AQuinoa_stuffed_peppers.jpg |
 | Viral Cottage Cheese Flatbread Wrap | Pexels photo | https://www.pexels.com/ |
+| Viral Cottage Cheese Taco Bowl | File:Taco (deconstructed) of wild rice, refried beans, tomato salsa, cheddar cheese, and taco shells - Massachusetts.jpg | https://commons.wikimedia.org/wiki/File:Taco_(deconstructed)_of_wild_rice,_refried_beans,_tomato_salsa,_cheddar_cheese,_and_taco_shells_-_Massachusetts.jpg |
 | Viral Chicken Crust Pizza (Chicken Parm Style) | File:Chicken Alfredo Pizza (4270373800).jpg | https://commons.wikimedia.org/wiki/File:Chicken_Alfredo_Pizza_(4270373800).jpg |
 | Lemon-Basil Yogurt Sauce | File:Yogurt-mint sauce.jpg | https://commons.wikimedia.org/wiki/File:Yogurt-mint_sauce.jpg |
 | Smoky Tomato-Oregano Sauce | File:Fresh Tomato Sauce (Unsplash).jpg | https://commons.wikimedia.org/wiki/File%3AFresh_Tomato_Sauce_%28Unsplash%29.jpg |
