@@ -24,6 +24,8 @@ Created for quick, practical meals with lower net carbs and simple ingredients.
 - [17) Creamy Chicken Piccata](#17-creamy-chicken-piccata)
 - [18) Lemon-Mint Yogurt Sauce](#18-lemon-mint-yogurt-sauce)
 - [19) Viral Cottage Cheese Taco Bowl](#19-viral-cottage-cheese-taco-bowl)
+- [20) Viral Cottage Cheese Queso](#20-viral-cottage-cheese-queso)
+- [21) Viral Ranch Cottage Cheese Dip/Sauce](#21-viral-ranch-cottage-cheese-dip-sauce)
 - [Sauce Pairing Guide](#sauce-pairing-guide)
 - [7-Day Low-Carb Meal Flow (Optional)](#7-day-low-carb-meal-flow-optional)
 - [7-Day Meal Flow Shopping List (Auto-Generated)](#7-day-meal-flow-shopping-list-auto-generated)
@@ -610,6 +612,74 @@ Created for quick, practical meals with lower net carbs and simple ingredients.
 ### Notes
 - For meal prep, keep warm meat separate and assemble with cold toppings right before eating.
 - You can swap ground chicken for a lighter version.
+
+---
+
+## 20) Viral Cottage Cheese Queso
+**Yield:** about 2 cups  
+**Estimated net carbs:** ~2g per 1/4 cup
+**Estimated macros:** ~90 cal | 8g protein | 6g fat | 3g carbs (per 1/4 cup)
+
+### Ingredients
+- 2 cups 2% cottage cheese
+- 1 cup shredded cheddar cheese
+- 1/2 cup diced tomatoes with green chilies (drained)
+- 1/2 tsp onion powder
+- 1/2 tsp garlic powder
+- 1/2 tsp cumin
+- 1/4 tsp smoked paprika
+- 1/2 tsp salt, plus more to taste
+- 1-2 tbsp milk or water, if needed to thin
+
+### Optional Add-Ins
+- 1 tbsp chopped pickled jalapenos
+- 1/4 tsp chili powder for extra heat
+- 1 tbsp chopped cilantro
+
+### Instructions
+1. Blend cottage cheese until smooth.
+2. Add blended cottage cheese, cheddar, tomatoes with chilies, and seasonings to a saucepan over medium-low heat.
+3. Stir frequently for 4-6 minutes until hot and melty.
+4. Add milk or water 1 tbsp at a time if you want a thinner queso texture.
+5. Taste and adjust salt or spice, then serve warm.
+
+### Notes
+- Great with bell pepper strips, cucumber rounds, taco bowls, or grilled chicken.
+- Reheat gently and stir before serving; add a splash of milk if it thickens in the fridge.
+
+---
+
+## 21) Viral Ranch Cottage Cheese Dip/Sauce
+**Yield:** about 1 1/2 cups  
+**Estimated net carbs:** ~1g per 2 tbsp
+**Estimated macros:** ~30 cal | 3g protein | 1g fat | 2g carbs (per 2 tbsp)
+
+### Ingredients
+- 1 1/2 cups 2% cottage cheese
+- 1 tbsp lemon juice
+- 1 tbsp fresh dill, chopped (or 1 tsp dried dill)
+- 1 tsp dried parsley
+- 1/2 tsp garlic powder
+- 1/2 tsp onion powder
+- 1/2 tsp kosher salt
+- 1/4 tsp black pepper
+- 2-3 tbsp water, to thin as needed
+
+### Optional Add-Ins
+- 1 tsp chives, finely chopped
+- 1/4 tsp dried chive powder
+- Pinch of cayenne
+
+### Instructions
+1. Add all ingredients to a blender.
+2. Blend until smooth and creamy, scraping down sides as needed.
+3. Blend in water 1 tbsp at a time to reach dip or drizzle consistency.
+4. Taste and adjust salt, lemon, or pepper.
+5. Chill 10-15 minutes before serving for best flavor.
+
+### Notes
+- Use as veggie dip, salad dressing, or sauce for chicken and wraps.
+- Keeps 4-5 days refrigerated.
 
 ---
 

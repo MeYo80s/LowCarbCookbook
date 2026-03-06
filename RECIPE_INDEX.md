@@ -27,6 +27,8 @@ Structured recipe files for easier growth and maintenance.
 ## Sauces
 - [Lemon-Mint Yogurt Sauce](recipes/sauces/lemon-basil-yogurt-sauce.md)
 - [Smoky Tomato-Oregano Sauce](recipes/sauces/smoky-tomato-oregano-sauce.md)
+- [Viral Cottage Cheese Queso](recipes/sauces/viral-cottage-cheese-queso.md)
+- [Viral Ranch Cottage Cheese Dip/Sauce](recipes/sauces/viral-ranch-cottage-cheese-dip-sauce.md)
 
 ## Snacks
 - [Protein Balls](recipes/snacks/protein-balls.md)
