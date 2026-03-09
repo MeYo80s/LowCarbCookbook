@@ -6,7 +6,6 @@ Structured recipe files for easier growth and maintenance.
 - [Spinach Feta Bacon Egg Muffins](recipes/breakfast/spinach-feta-bacon-egg-muffins.md)
 - [Chia Vanilla Pudding](recipes/breakfast/chia-vanilla-pudding.md)
 - [Greek Yogurt Bowl with Walnuts and Cinnamon](recipes/breakfast/greek-yogurt-bowl-with-walnuts-and-cinnamon.md)
-- [Banana Protein Pancakes](recipes/breakfast/banana-protein-pancakes.md)
 
 ## Mains
 - [Greek Chicken Salad Bowls](recipes/mains/greek-chicken-salad-bowls.md)
@@ -16,7 +15,6 @@ Structured recipe files for easier growth and maintenance.
 - [Loaded Cauliflower Casserole](recipes/mains/loaded-cauliflower-casserole.md)
 - [Creamy Tuscan Chicken](recipes/mains/creamy-tuscan-chicken.md)
 - [Creamy Chicken Piccata](recipes/mains/creamy-chicken-piccata.md)
-- [Juicy Loaf Pan Chicken](recipes/mains/juicy-loaf-pan-chicken.md)
 - [Sheet Pan Sausage and Veggies](recipes/mains/sheet-pan-sausage-and-veggies.md)
 - [Viral Cottage Cheese Flatbread Wrap](recipes/mains/viral-cottage-cheese-flatbread-wrap.md)
 - [Viral Cottage Cheese Taco Bowl](recipes/mains/viral-cottage-cheese-taco-bowl.md)
