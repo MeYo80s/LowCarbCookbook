@@ -24,3 +24,4 @@ Recipe photos sourced from Wikimedia Commons (or noted otherwise).
 | Lemon-Basil Yogurt Sauce | File:Yogurt-mint sauce.jpg | https://commons.wikimedia.org/wiki/File:Yogurt-mint_sauce.jpg |
 | Smoky Tomato-Oregano Sauce | File:Fresh Tomato Sauce (Unsplash).jpg | https://commons.wikimedia.org/wiki/File%3AFresh_Tomato_Sauce_%28Unsplash%29.jpg |
 | Broccoli Cheddar Soup (Low-Carb) | User-provided image | (local upload) |
+| Egg Drop Soup | User-provided image | (local upload) |

@@ -23,6 +23,7 @@ Structured recipe files for easier growth and maintenance.
 
 ## Soups
 - [Broccoli Cheddar Soup (Low-Carb)](recipes/soups/broccoli-cheddar-soup-low-carb.md)
+- [Egg Drop Soup](recipes/soups/egg-drop-soup.md)
 
 ## Sauces
 - [Lemon-Mint Yogurt Sauce](recipes/sauces/lemon-basil-yogurt-sauce.md)
