@@ -17,6 +17,7 @@ Structured recipe files for easier growth and maintenance.
 - [Creamy Chicken Piccata](recipes/mains/creamy-chicken-piccata.md)
 - [Crispy Lemon-Garlic Chicken Thighs with Caper Butter](recipes/mains/crispy-lemon-garlic-chicken-thighs-caper-butter.md)
 - [Sheet Pan Sausage and Veggies](recipes/mains/sheet-pan-sausage-and-veggies.md)
+- [Low-Carb Asian Lettuce Wraps](recipes/mains/low-carb-asian-lettuce-wraps.md)
 - [Viral Cottage Cheese Flatbread Wrap](recipes/mains/viral-cottage-cheese-flatbread-wrap.md)
 - [Viral Cottage Cheese Taco Bowl](recipes/mains/viral-cottage-cheese-taco-bowl.md)
 - [Viral Chicken Crust Pizza (Chicken Parm Style)](recipes/mains/viral-chicken-crust-pizza-chicken-parm-style.md)

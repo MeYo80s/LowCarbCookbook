@@ -13,6 +13,7 @@ Recipe photos sourced from Wikimedia Commons (or noted otherwise).
 | Creamy Tuscan Chicken | User-provided image | (local upload) |
 | Creamy Chicken Piccata | File:Chicken Piccata (44907536335).jpg | https://commons.wikimedia.org/wiki/File:Chicken_Piccata_(44907536335).jpg |
 | Crispy Lemon-Garlic Chicken Thighs with Caper Butter | File:Chicken thighs - the girl and the fig - May 2023 - Sarah Stierch 01.jpg | https://commons.wikimedia.org/wiki/File:Chicken_thighs_-_the_girl_and_the_fig_-_May_2023_-_Sarah_Stierch_01.jpg |
+| Low-Carb Asian Lettuce Wraps | User-provided image | (local upload) |
 | Loaded Cauliflower Casserole | File:Creamy cauliflower casserole.jpg | https://commons.wikimedia.org/wiki/File:Creamy_cauliflower_casserole.jpg |
 | Protein Balls | User-provided image | (local upload) |
 | Sheet Pan Sausage and Veggies | File:Sausage and peppers.jpg | https://commons.wikimedia.org/wiki/File%3ASausage_and_peppers.jpg |
