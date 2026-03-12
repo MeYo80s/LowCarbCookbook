@@ -13,6 +13,7 @@ Structured recipe files for easier growth and maintenance.
 - [Zucchini Noodle Turkey Bolognese](recipes/mains/zucchini-noodle-turkey-bolognese.md)
 - [Cauliflower Fried Rice](recipes/mains/cauliflower-fried-rice.md)
 - [Loaded Cauliflower Casserole](recipes/mains/loaded-cauliflower-casserole.md)
+- [Traditional Keto Golabki (Polish Stuffed Cabbage Rolls)](recipes/mains/keto-golabki-polish-stuffed-cabbage-rolls.md)
 - [Creamy Tuscan Chicken](recipes/mains/creamy-tuscan-chicken.md)
 - [Creamy Chicken Piccata](recipes/mains/creamy-chicken-piccata.md)
 - [Crispy Lemon-Garlic Chicken Thighs with Caper Butter](recipes/mains/crispy-lemon-garlic-chicken-thighs-caper-butter.md)
