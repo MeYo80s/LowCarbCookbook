@@ -1,5 +1,7 @@
 # Traditional Keto Golabki (Polish Stuffed Cabbage Rolls)
 
+![Traditional Keto Golabki (Polish Stuffed Cabbage Rolls)](../../assets/recipes/keto-golabki-polish-stuffed-cabbage-rolls.png)
+
 **Serves:** 8  
 **Estimated net carbs:** ~6g per serving
 **Estimated macros:** ~380 cal | 28g protein | 24g fat | 9g carbs

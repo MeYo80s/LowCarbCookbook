@@ -29,6 +29,7 @@ Created for quick, practical meals with lower net carbs and simple ingredients.
 - [22) Egg Drop Soup](#22-egg-drop-soup)
 - [23) Low-Carb Asian Lettuce Wraps](#23-low-carb-asian-lettuce-wraps)
 - [24) Traditional Keto Golabki (Polish Stuffed Cabbage Rolls)](#24-traditional-keto-golabki-polish-stuffed-cabbage-rolls)
+- [25) Korean Beef Lettuce Wraps](#25-korean-beef-lettuce-wraps)
 - [Sauce Pairing Guide](#sauce-pairing-guide)
 - [7-Day Low-Carb Meal Flow (Optional)](#7-day-low-carb-meal-flow-optional)
 - [7-Day Meal Flow Shopping List (Auto-Generated)](#7-day-meal-flow-shopping-list-auto-generated)
@@ -780,6 +781,8 @@ Created for quick, practical meals with lower net carbs and simple ingredients.
 ---
 
 ## 24) Traditional Keto Golabki (Polish Stuffed Cabbage Rolls)
+![Traditional Keto Golabki (Polish Stuffed Cabbage Rolls)](assets/recipes/keto-golabki-polish-stuffed-cabbage-rolls.png)
+
 **Serves:** 8  
 **Estimated net carbs:** ~6g per serving
 **Estimated macros:** ~380 cal | 28g protein | 24g fat | 9g carbs
@@ -821,6 +824,48 @@ Created for quick, practical meals with lower net carbs and simple ingredients.
 ### Notes
 - Marjoram gives this dish its classic Polish flavor profile.
 - Cabbage softness varies by head size and age; add time if leaves are still firm.
+
+---
+
+## 25) Korean Beef Lettuce Wraps
+![Korean Beef Lettuce Wraps](assets/recipes/korean-beef-lettuce-wraps.jpg)
+
+**Serves:** 4  
+**Estimated net carbs:** ~7g per serving
+**Estimated macros:** ~360 cal | 25g protein | 24g fat | 10g carbs
+
+### Ingredients
+- 1 tbsp avocado oil
+- 1 lb ground beef (85/15)
+- 1/2 small onion, finely diced
+- 2 garlic cloves, minced
+- 1 tsp fresh ginger, grated
+- 1/4 cup coconut aminos
+- 1 tbsp rice vinegar
+- 1 tsp toasted sesame oil
+- 1 tsp sugar-free sweetener (optional)
+- 1/2 tsp red pepper flakes or gochugaru
+- 1/2 cup cucumber, finely diced
+- 1/4 cup jicama, finely diced (for extra crunch)
+- 2 green onions, sliced
+- 1 head butter lettuce, leaves separated
+
+### Optional Add-Ins
+- 1 tsp sesame seeds
+- Sriracha to taste
+- Fresh cilantro
+
+### Instructions
+1. Heat avocado oil in a large skillet over medium-high.
+2. Add beef and onion; cook until beef is browned.
+3. Stir in garlic and ginger; cook 30 seconds.
+4. Add coconut aminos, rice vinegar, sesame oil, optional sweetener, and red pepper flakes. Simmer 2-3 minutes until glossy.
+5. Fold in cucumber, jicama, and green onions. Cook 30 seconds to keep crunch.
+6. Spoon filling into lettuce leaves and serve immediately.
+
+### Notes
+- Crunch is built in with cucumber and jicama to mimic the bite you get from water chestnuts.
+- Source concept adaptation: Kitchen Sanctuary Korean Beef Lettuce Wraps, adjusted for lower carb ingredients.
 
 ---
 
