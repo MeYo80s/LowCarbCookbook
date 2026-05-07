@@ -7,7 +7,7 @@ Recipe photos sourced from Wikimedia Commons (or noted otherwise).
 | Chia Vanilla Pudding | Existing local image | (pre-existing) |
 | Greek Yogurt Bowl with Walnuts and Cinnamon | Existing local image | (pre-existing) |
 | Spinach Feta Egg Muffins | File:Egg-muffin (49218808517).jpg | https://commons.wikimedia.org/wiki/File:Egg-muffin_(49218808517).jpg |
-| Cauliflower Fried Rice | Existing local image | (pre-existing) |
+| Cauliflower Fried Rice | Skinnytaste recipe image | https://www.skinnytaste.com/cauliflower-fried-rice/ |
 | Garlic Butter Salmon with Asparagus | Existing local image | (pre-existing) |
 | Greek Chicken Salad Bowls | File:Greek Salad from Thessaloniki.jpg | https://commons.wikimedia.org/wiki/File:Greek_Salad_from_Thessaloniki.jpg |
 | Creamy Tuscan Chicken | User-provided image | (local upload) |
@@ -19,10 +19,11 @@ Recipe photos sourced from Wikimedia Commons (or noted otherwise).
 | Crispy Salmon Bites with Hot Honey-Lime | The Mediterranean Dish recipe image | https://www.themediterraneandish.com/crispy-salmon-bites-with-harissa-yogurt-sauce/ |
 | Peri-Peri Chicken Thighs with Herby Yogurt | The Spice House recipe image | https://www.thespicehouse.com/blogs/recipes/peri-peri-chicken |
 | Zucchini Ribbon Salad with Halloumi and Mint | Kalofagas recipe image | https://www.kalofagas.ca/2025/07/31/zucchini-ribbon-salad-with-halloumi-mint/ |
+| Zucchini Noodle Turkey Bolognese | Slender Kitchen recipe image | https://www.slenderkitchen.com/recipe/zucchini-noodle-bolognese |
 | Low-Carb Asian Lettuce Wraps | User-provided image | (local upload) |
 | Loaded Cauliflower Casserole | Allrecipes recipe image | https://www.allrecipes.com/meet-loaded-cauliflower-casserole-11833518 |
 | Protein Balls | User-provided image | (local upload) |
-| Sheet Pan Sausage and Veggies | File:Sausage and peppers.jpg | https://commons.wikimedia.org/wiki/File%3ASausage_and_peppers.jpg |
+| Sheet Pan Sausage and Veggies | Jo Cooks recipe image | https://www.jocooks.com/recipes/sheet-pan-sausage-and-veggies/ |
 | Viral Cottage Cheese Flatbread Wrap | Wellness by Kay recipe image | https://wellnessbykay.com/viral-cottage-cheese-flatbread/ |
 | Viral Cottage Cheese Taco Bowl | User-provided screenshot | (local upload) |
 | Viral Cottage Cheese Queso | User-provided image | (local upload) |
