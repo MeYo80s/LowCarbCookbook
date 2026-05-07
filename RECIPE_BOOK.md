@@ -30,6 +30,10 @@ Created for quick, practical meals with lower net carbs and simple ingredients.
 - [23) Low-Carb Asian Lettuce Wraps](#23-low-carb-asian-lettuce-wraps)
 - [24) Traditional Keto Golabki (Polish Stuffed Cabbage Rolls)](#24-traditional-keto-golabki-polish-stuffed-cabbage-rolls)
 - [25) Korean Beef Lettuce Wraps](#25-korean-beef-lettuce-wraps)
+- [26) Pork Egg Roll in a Bowl](#26-pork-egg-roll-in-a-bowl)
+- [27) Crispy Salmon Bites with Hot Honey-Lime](#27-crispy-salmon-bites-with-hot-honey-lime)
+- [28) Peri-Peri Chicken Thighs with Herby Yogurt](#28-peri-peri-chicken-thighs-with-herby-yogurt)
+- [29) Zucchini Ribbon Salad with Halloumi and Mint](#29-zucchini-ribbon-salad-with-halloumi-and-mint)
 - [Sauce Pairing Guide](#sauce-pairing-guide)
 - [7-Day Low-Carb Meal Flow (Optional)](#7-day-low-carb-meal-flow-optional)
 - [7-Day Meal Flow Shopping List (Auto-Generated)](#7-day-meal-flow-shopping-list-auto-generated)
@@ -866,6 +870,148 @@ Created for quick, practical meals with lower net carbs and simple ingredients.
 ### Notes
 - Crunch is built in with cucumber and jicama to mimic the bite you get from water chestnuts.
 - Source concept adaptation: Kitchen Sanctuary Korean Beef Lettuce Wraps, adjusted for lower carb ingredients.
+
+---
+
+## 26) Pork Egg Roll in a Bowl
+![Pork Egg Roll in a Bowl](assets/recipes/pork-egg-roll-in-a-bowl.jpg)
+
+**Serves:** 4  
+**Estimated net carbs:** ~7g per serving
+**Estimated macros:** ~390 cal | 22g protein | 29g fat | 10g carbs
+
+### Ingredients
+- 1 tbsp avocado oil
+- 1 lb ground pork
+- 1 small onion, finely diced
+- 3 cloves garlic, minced
+- 1 tbsp fresh ginger, grated
+- 6 cups shredded cabbage or coleslaw mix
+- 2 tbsp coconut aminos
+- 1 tbsp rice vinegar
+- 1 tsp toasted sesame oil
+- 2 green onions, sliced
+- Salt and black pepper, to taste
+
+### Optional Add-Ins
+- 1/4 cup diced jicama for extra crunch
+- Chili crisp or sriracha
+- Sesame seeds
+
+### Instructions
+1. Heat oil in a large skillet over medium-high.
+2. Add pork and onion; cook until browned.
+3. Stir in garlic and ginger; cook 30 seconds.
+4. Add cabbage and cook 3-5 minutes until just tender-crisp.
+5. Stir in coconut aminos, rice vinegar, sesame oil, and green onions.
+6. Season to taste and serve hot.
+
+### Notes
+- Keep cabbage slightly crisp for the best texture.
+
+---
+
+## 27) Crispy Salmon Bites with Hot Honey-Lime
+![Crispy Salmon Bites with Hot Honey-Lime](assets/recipes/crispy-salmon-bites-hot-honey-lime.jpg)
+
+**Serves:** 4  
+**Estimated net carbs:** ~4g per serving
+**Estimated macros:** ~330 cal | 27g protein | 22g fat | 6g carbs
+
+### Ingredients
+- 1 1/2 lb salmon, skin removed, cut into bite-size cubes
+- 1 tbsp avocado oil
+- 1 tsp paprika
+- 1/2 tsp garlic powder
+- 1/2 tsp salt
+- 1/4 tsp black pepper
+- 1 tbsp butter
+- 1 tbsp fresh lime juice
+- 1 tsp hot sauce
+- 1 tsp sugar-free honey-style syrup
+
+### Optional Add-Ins
+- Lime zest
+- Chopped cilantro
+- Extra chili flakes
+
+### Instructions
+1. Pat salmon dry and toss with oil, paprika, garlic powder, salt, and pepper.
+2. Sear in a hot skillet 2-3 minutes per side until crisp outside and just cooked inside.
+3. Lower heat; add butter, lime juice, hot sauce, and sugar-free syrup.
+4. Toss quickly to glaze the salmon bites and serve.
+
+### Notes
+- Avoid overcrowding the pan to keep edges crisp.
+
+---
+
+## 28) Peri-Peri Chicken Thighs with Herby Yogurt
+![Peri-Peri Chicken Thighs with Herby Yogurt](assets/recipes/peri-peri-chicken-thighs-with-herby-yogurt.jpg)
+
+**Serves:** 4  
+**Estimated net carbs:** ~3g per serving
+**Estimated macros:** ~510 cal | 34g protein | 39g fat | 5g carbs
+
+### Ingredients
+- 2 lb bone-in, skin-on chicken thighs
+- 2 tbsp olive oil
+- 1 tbsp lemon juice
+- 2 tsp smoked paprika
+- 1 tsp garlic powder
+- 1 tsp dried oregano
+- 1/2 tsp salt
+- 1/2 tsp black pepper
+- 1/4 tsp cayenne (optional)
+
+### Herby Yogurt Sauce
+- 1/2 cup full-fat Greek yogurt
+- 1 tbsp chopped parsley
+- 1 tbsp chopped cilantro
+- 1 tsp lemon juice
+- Pinch of salt
+
+### Instructions
+1. Heat oven to 425 F.
+2. Toss chicken with olive oil, lemon juice, and dry seasonings.
+3. Roast skin-side up 35-45 minutes until crisp and internal temp reaches 175 F in the thigh.
+4. Mix all yogurt sauce ingredients in a small bowl.
+5. Serve chicken hot with sauce on the side (not baked on top).
+
+### Notes
+- Serving the yogurt sauce on the side keeps skin crisp and avoids mealy texture.
+
+---
+
+## 29) Zucchini Ribbon Salad with Halloumi and Mint
+![Zucchini Ribbon Salad with Halloumi and Mint](assets/recipes/zucchini-ribbon-salad-with-halloumi-and-mint.jpg)
+
+**Serves:** 4  
+**Estimated net carbs:** ~6g per serving
+**Estimated macros:** ~280 cal | 14g protein | 21g fat | 8g carbs
+
+### Ingredients
+- 3 medium zucchini, shaved into ribbons
+- 8 oz halloumi cheese, sliced
+- 1 tbsp olive oil
+- 2 tbsp fresh mint, chopped
+- 1 tbsp lemon juice
+- 1 tsp lemon zest
+- Salt and black pepper, to taste
+
+### Optional Add-Ins
+- 1 tbsp toasted pine nuts
+- 1 tbsp chopped dill
+- Cracked red pepper
+
+### Instructions
+1. Heat a skillet over medium-high and sear halloumi 1-2 minutes per side until golden.
+2. Toss zucchini ribbons with olive oil, lemon juice, lemon zest, salt, and pepper.
+3. Plate zucchini, top with warm halloumi, and finish with mint.
+4. Add optional toppings and serve immediately.
+
+### Notes
+- Best served right away while the halloumi is warm and crisp.
 
 ---
 
