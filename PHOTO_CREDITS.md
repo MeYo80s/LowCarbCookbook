@@ -20,14 +20,14 @@ Recipe photos sourced from Wikimedia Commons (or noted otherwise).
 | Peri-Peri Chicken Thighs with Herby Yogurt | The Spice House recipe image | https://www.thespicehouse.com/blogs/recipes/peri-peri-chicken |
 | Zucchini Ribbon Salad with Halloumi and Mint | Kalofagas recipe image | https://www.kalofagas.ca/2025/07/31/zucchini-ribbon-salad-with-halloumi-mint/ |
 | Low-Carb Asian Lettuce Wraps | User-provided image | (local upload) |
-| Loaded Cauliflower Casserole | File:Creamy cauliflower casserole.jpg | https://commons.wikimedia.org/wiki/File:Creamy_cauliflower_casserole.jpg |
+| Loaded Cauliflower Casserole | Allrecipes recipe image | https://www.allrecipes.com/meet-loaded-cauliflower-casserole-11833518 |
 | Protein Balls | User-provided image | (local upload) |
 | Sheet Pan Sausage and Veggies | File:Sausage and peppers.jpg | https://commons.wikimedia.org/wiki/File%3ASausage_and_peppers.jpg |
-| Viral Cottage Cheese Flatbread Wrap | Pexels photo | https://www.pexels.com/ |
+| Viral Cottage Cheese Flatbread Wrap | Wellness by Kay recipe image | https://wellnessbykay.com/viral-cottage-cheese-flatbread/ |
 | Viral Cottage Cheese Taco Bowl | User-provided screenshot | (local upload) |
 | Viral Cottage Cheese Queso | User-provided image | (local upload) |
 | Viral Ranch Cottage Cheese Dip/Sauce | User-provided image | (local upload) |
-| Viral Chicken Crust Pizza (Chicken Parm Style) | File:Chicken Alfredo Pizza (4270373800).jpg | https://commons.wikimedia.org/wiki/File:Chicken_Alfredo_Pizza_(4270373800).jpg |
+| Viral Chicken Crust Pizza (Chicken Parm Style) | Real Simple article image | https://www.realsimple.com/viral-chicken-parm-pizza-recipe-11733937 |
 | Lemon-Basil Yogurt Sauce | File:Yogurt-mint sauce.jpg | https://commons.wikimedia.org/wiki/File:Yogurt-mint_sauce.jpg |
 | Smoky Tomato-Oregano Sauce | File:Fresh Tomato Sauce (Unsplash).jpg | https://commons.wikimedia.org/wiki/File%3AFresh_Tomato_Sauce_%28Unsplash%29.jpg |
 | Broccoli Cheddar Soup (Low-Carb) | User-provided image | (local upload) |
