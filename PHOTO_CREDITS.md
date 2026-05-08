@@ -4,13 +4,13 @@ Recipe photos sourced from Wikimedia Commons (or noted otherwise).
 
 | Recipe | Source File | Source URL |
 |---|---|---|
-| Chia Vanilla Pudding | Existing local image | (pre-existing) |
+| Chia Vanilla Pudding | Feel Good Foodie recipe image | https://feelgoodfoodie.net/recipe/3-ingredient-chia-pudding/ |
 | Greek Yogurt Bowl with Walnuts and Cinnamon | Existing local image | (pre-existing) |
 | Spinach Feta Egg Muffins | File:Egg-muffin (49218808517).jpg | https://commons.wikimedia.org/wiki/File:Egg-muffin_(49218808517).jpg |
 | Cauliflower Fried Rice | Skinnytaste recipe image | https://www.skinnytaste.com/cauliflower-fried-rice/ |
 | Garlic Butter Salmon with Asparagus | Existing local image | (pre-existing) |
-| Greek Chicken Salad Bowls | File:Greek Salad from Thessaloniki.jpg | https://commons.wikimedia.org/wiki/File:Greek_Salad_from_Thessaloniki.jpg |
-| Creamy Tuscan Chicken | User-provided image | (local upload) |
+| Greek Chicken Salad Bowls | Eating Bird Food recipe image | https://www.eatingbirdfood.com/greek-chicken-bowls/ |
+| Creamy Tuscan Chicken | Delish recipe image | https://www.delish.com/cooking/recipe-ideas/a19636089/creamy-tuscan-chicken-recipe/ |
 | Creamy Chicken Piccata | File:Chicken Piccata (44907536335).jpg | https://commons.wikimedia.org/wiki/File:Chicken_Piccata_(44907536335).jpg |
 | Crispy Lemon-Garlic Chicken Thighs with Caper Butter | File:Chicken thighs - the girl and the fig - May 2023 - Sarah Stierch 01.jpg | https://commons.wikimedia.org/wiki/File:Chicken_thighs_-_the_girl_and_the_fig_-_May_2023_-_Sarah_Stierch_01.jpg |
 | Traditional Keto Golabki (Polish Stuffed Cabbage Rolls) | User-provided image | (local upload) |
